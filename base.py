@@ -108,6 +108,7 @@ class _SendRequest(object):
 
 class _BaseSelenium(object):
     def __init__(self, *args, **kwargs):
+        self.save_directory = "C:\\report_pdf"
         pass
 
     def get_driver(self):
@@ -121,7 +122,7 @@ class _BaseSelenium(object):
 
         fp.set_preference("browser.download.folderList", 2)
         fp.set_preference("browser.download.manager.showWhenStarting",False)
-        fp.set_preference("browser.download.dir", "C:\\pdf")
+        fp.set_preference("browser.download.dir", self.save_directory)
         fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf,application/x-pdf")
 
         fp.set_preference("pdfjs.disabled", True)  # < KEY PART HERE
@@ -140,8 +141,9 @@ class _BaseSelenium(object):
     
         self.driver.quit()
 
-    def wait_until_presence(self, xpath):
-        WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH,xpath)))
+    def wait_until_presence(self, by, selector, source=None, *args, **kwargs):
+        source = source or self.driver
+        WebDriverWait(source,10).until(EC.presence_of_element_located((by ,selector)))
         return True
 
     def perform_action(func):
