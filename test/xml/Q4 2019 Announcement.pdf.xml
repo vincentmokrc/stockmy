@@ -1,0 +1,1826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pdf2xml SYSTEM "pdf2xml.dtd">
+
+<pdf2xml producer="poppler" version="0.62.0">
+<page number="1" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="0" size="17" family="Times" color="#000000"/>
+	<fontspec id="1" size="22" family="Times" color="#000000"/>
+<image top="114" left="308" width="310" height="96" src="./test//xml/Q4 2019 Announcement.pdf-1_1.jpg"/>
+<text top="453" left="305" width="323" height="21" font="0">FOR THE FOURTH QUARTER AND</text>
+<text top="477" left="253" width="428" height="21" font="0">FINANCIAL YEAR ENDED 31 DECEMBER 2019</text>
+<text top="258" left="246" width="441" height="27" font="1">GREATECH TECHNOLOGY BERHAD</text>
+<text top="287" left="293" width="349" height="21" font="0">(Company No. 201801008633 (1270647-H))</text>
+<text top="310" left="240" width="454" height="21" font="0">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="429" left="323" width="288" height="21" font="0">INTERIM FINANCIAL REPORT</text>
+</page>
+<page number="2" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="2" size="14" family="Times" color="#000000"/>
+	<fontspec id="3" size="13" family="Times" color="#000000"/>
+	<fontspec id="4" size="8" family="Times" color="#000000"/>
+<image top="63" left="628" width="181" height="57" src="./test//xml/Q4 2019 Announcement.pdf-2_1.jpg"/>
+<text top="63" left="155" width="294" height="18" font="2">GREATECH TECHNOLOGY BERHAD</text>
+<text top="84" left="155" width="303" height="18" font="2">(Company No. 201801008633 (1270647-H))</text>
+<text top="106" left="155" width="387" height="18" font="2">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="128" left="155" width="635" height="18" font="2">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="228" left="600" width="68" height="17" font="3">Unaudited</text>
+<text top="228" left="730" width="52" height="17" font="3">Audited</text>
+<text top="248" left="617" width="33" height="17" font="3">As at</text>
+<text top="248" left="739" width="33" height="17" font="3">As at</text>
+<text top="269" left="599" width="69" height="17" font="3">31/12/2019</text>
+<text top="269" left="721" width="69" height="17" font="3">31/12/2018</text>
+<text top="287" left="607" width="53" height="17" font="3">RM’000</text>
+<text top="287" left="730" width="53" height="17" font="3">RM’000</text>
+<text top="307" left="154" width="56" height="17" font="3">ASSETS</text>
+<text top="327" left="154" width="121" height="17" font="3">Non-current assets</text>
+<text top="347" left="154" width="182" height="17" font="3">Property, plant and equipment</text>
+<text top="347" left="639" width="42" height="17" font="3">37,548</text>
+<text top="347" left="587" width="57" height="17" font="3">               </text>
+<text top="347" left="762" width="42" height="17" font="3">35,543</text>
+<text top="347" left="709" width="57" height="17" font="3">               </text>
+<text top="366" left="154" width="115" height="17" font="3">Right-of-use assets</text>
+<text top="366" left="640" width="42" height="17" font="3">29,131</text>
+<text top="366" left="587" width="57" height="17" font="3">               </text>
+<text top="366" left="799" width="5" height="17" font="3">-</text>
+<text top="366" left="708" width="94" height="17" font="3">                         </text>
+<text top="386" left="640" width="42" height="17" font="3">66,679</text>
+<text top="386" left="587" width="57" height="17" font="3">               </text>
+<text top="386" left="762" width="42" height="17" font="3">35,543</text>
+<text top="386" left="709" width="57" height="17" font="3">               </text>
+<text top="424" left="154" width="94" height="17" font="3">Current assets</text>
+<text top="444" left="154" width="68" height="17" font="3">Inventories</text>
+<text top="444" left="647" width="34" height="17" font="3">2,865</text>
+<text top="444" left="587" width="64" height="17" font="3">                 </text>
+<text top="444" left="769" width="34" height="17" font="3">3,594</text>
+<text top="444" left="709" width="64" height="17" font="3">                 </text>
+<text top="463" left="154" width="166" height="17" font="3">Trade and other receivables</text>
+<text top="463" left="639" width="42" height="17" font="3">30,240</text>
+<text top="463" left="587" width="57" height="17" font="3">               </text>
+<text top="463" left="762" width="42" height="17" font="3">21,596</text>
+<text top="463" left="709" width="57" height="17" font="3">               </text>
+<text top="483" left="154" width="91" height="17" font="3">Contract assets</text>
+<text top="483" left="640" width="42" height="17" font="3">26,409</text>
+<text top="483" left="587" width="57" height="17" font="3">               </text>
+<text top="483" left="762" width="42" height="17" font="3">25,934</text>
+<text top="483" left="709" width="57" height="17" font="3">               </text>
+<text top="503" left="154" width="107" height="17" font="3">Current tax assets</text>
+<text top="503" left="658" width="23" height="17" font="3">506</text>
+<text top="503" left="587" width="75" height="17" font="3">                    </text>
+<text top="503" left="781" width="23" height="17" font="3">694</text>
+<text top="503" left="709" width="75" height="17" font="3">                    </text>
+<text top="523" left="154" width="141" height="17" font="3">Derivative instruments </text>
+<text top="523" left="674" width="8" height="17" font="3">9</text>
+<text top="523" left="587" width="91" height="17" font="3">                        </text>
+<text top="523" left="799" width="5" height="17" font="3">-</text>
+<text top="523" left="708" width="94" height="17" font="3">                         </text>
+<text top="543" left="154" width="101" height="17" font="3">Short term funds</text>
+<text top="543" left="632" width="49" height="17" font="3">176,528</text>
+<text top="543" left="587" width="49" height="17" font="3">             </text>
+<text top="543" left="762" width="42" height="17" font="3">52,609</text>
+<text top="543" left="709" width="57" height="17" font="3">               </text>
+<text top="562" left="154" width="144" height="17" font="3">Cash and bank balances</text>
+<text top="562" left="640" width="42" height="17" font="3">41,404</text>
+<text top="562" left="587" width="57" height="17" font="3">               </text>
+<text top="562" left="762" width="42" height="17" font="3">12,384</text>
+<text top="562" left="709" width="57" height="17" font="3">               </text>
+<text top="582" left="632" width="49" height="17" font="3">277,961</text>
+<text top="582" left="587" width="49" height="17" font="3">             </text>
+<text top="582" left="754" width="49" height="17" font="3">116,811</text>
+<text top="582" left="709" width="49" height="17" font="3">             </text>
+<text top="601" left="154" width="113" height="17" font="3">TOTAL ASSETS</text>
+<text top="601" left="632" width="49" height="17" font="3">344,640</text>
+<text top="601" left="587" width="49" height="17" font="3">             </text>
+<text top="601" left="754" width="49" height="17" font="3">152,354</text>
+<text top="601" left="709" width="49" height="17" font="3">             </text>
+<text top="640" left="154" width="194" height="17" font="3">EQUITY AND LIABILITIES</text>
+<text top="659" left="154" width="278" height="17" font="3">Equity attributable to owners of the parent</text>
+<text top="679" left="154" width="78" height="17" font="3">Share capital</text>
+<text top="679" left="632" width="49" height="17" font="3">111,951</text>
+<text top="679" left="587" width="49" height="17" font="3">             </text>
+<text top="679" left="769" width="34" height="17" font="3">1,000</text>
+<text top="679" left="709" width="64" height="17" font="3">                 </text>
+<text top="699" left="154" width="54" height="17" font="3">Reserves</text>
+<text top="699" left="640" width="42" height="17" font="3">83,639</text>
+<text top="699" left="587" width="57" height="17" font="3">               </text>
+<text top="699" left="762" width="42" height="17" font="3">68,866</text>
+<text top="699" left="709" width="57" height="17" font="3">               </text>
+<text top="719" left="154" width="78" height="17" font="3">Total equity</text>
+<text top="719" left="632" width="49" height="17" font="3">195,590</text>
+<text top="719" left="587" width="49" height="17" font="3">             </text>
+<text top="719" left="762" width="42" height="17" font="3">69,866</text>
+<text top="719" left="709" width="57" height="17" font="3">               </text>
+<text top="756" left="154" width="143" height="17" font="3">Non-current liabilities</text>
+<text top="776" left="154" width="71" height="17" font="3">Borrowings</text>
+<text top="776" left="640" width="42" height="17" font="3">18,128</text>
+<text top="776" left="587" width="57" height="17" font="3">               </text>
+<text top="776" left="769" width="34" height="17" font="3">5,701</text>
+<text top="776" left="709" width="64" height="17" font="3">                 </text>
+<text top="796" left="154" width="94" height="17" font="3">Lease liabilities</text>
+<text top="796" left="647" width="34" height="17" font="3">2,186</text>
+<text top="796" left="587" width="64" height="17" font="3">                 </text>
+<text top="796" left="799" width="5" height="17" font="3">-</text>
+<text top="796" left="708" width="94" height="17" font="3">                         </text>
+<text top="816" left="154" width="109" height="17" font="3">Government grant</text>
+<text top="816" left="659" width="23" height="17" font="3">659</text>
+<text top="816" left="587" width="75" height="17" font="3">                    </text>
+<text top="816" left="781" width="23" height="17" font="3">791</text>
+<text top="816" left="709" width="75" height="17" font="3">                    </text>
+<text top="836" left="154" width="135" height="17" font="3">Deferred tax liabilities</text>
+<text top="836" left="647" width="34" height="17" font="3">3,139</text>
+<text top="836" left="587" width="64" height="17" font="3">                 </text>
+<text top="836" left="799" width="5" height="17" font="3">-</text>
+<text top="836" left="708" width="94" height="17" font="3">                         </text>
+<text top="855" left="640" width="42" height="17" font="3">24,112</text>
+<text top="855" left="587" width="57" height="17" font="3">               </text>
+<text top="855" left="769" width="34" height="17" font="3">6,492</text>
+<text top="855" left="709" width="64" height="17" font="3">                 </text>
+<text top="893" left="154" width="115" height="17" font="3">Current liabilities</text>
+<text top="913" left="154" width="151" height="17" font="3">Trade and other payables</text>
+<text top="913" left="639" width="42" height="17" font="3">29,147</text>
+<text top="913" left="587" width="57" height="17" font="3">               </text>
+<text top="913" left="762" width="42" height="17" font="3">36,511</text>
+<text top="913" left="709" width="57" height="17" font="3">               </text>
+<text top="933" left="154" width="111" height="17" font="3">Contract liabilities</text>
+<text top="933" left="640" width="42" height="17" font="3">56,189</text>
+<text top="933" left="587" width="57" height="17" font="3">               </text>
+<text top="933" left="762" width="42" height="17" font="3">14,176</text>
+<text top="933" left="709" width="57" height="17" font="3">               </text>
+<text top="952" left="154" width="146" height="17" font="3">Provision for warranties</text>
+<text top="952" left="639" width="42" height="17" font="3">37,124</text>
+<text top="952" left="587" width="57" height="17" font="3">               </text>
+<text top="952" left="762" width="42" height="17" font="3">22,734</text>
+<text top="952" left="709" width="57" height="17" font="3">               </text>
+<text top="972" left="154" width="71" height="17" font="3">Borrowings</text>
+<text top="972" left="647" width="34" height="17" font="3">1,001</text>
+<text top="972" left="587" width="64" height="17" font="3">                 </text>
+<text top="972" left="769" width="34" height="17" font="3">2,442</text>
+<text top="972" left="709" width="64" height="17" font="3">                 </text>
+<text top="992" left="154" width="94" height="17" font="3">Lease liabilities</text>
+<text top="992" left="647" width="34" height="17" font="3">1,331</text>
+<text top="992" left="587" width="64" height="17" font="3">                 </text>
+<text top="992" left="799" width="5" height="17" font="3">-</text>
+<text top="992" left="708" width="94" height="17" font="3">                         </text>
+<text top="1012" left="154" width="109" height="17" font="3">Government grant</text>
+<text top="1012" left="659" width="23" height="17" font="3">133</text>
+<text top="1012" left="587" width="75" height="17" font="3">                    </text>
+<text top="1012" left="781" width="23" height="17" font="3">133</text>
+<text top="1012" left="709" width="75" height="17" font="3">                    </text>
+<text top="1032" left="154" width="128" height="17" font="3">Current tax liabilities</text>
+<text top="1032" left="666" width="15" height="17" font="3">13</text>
+<text top="1032" left="587" width="83" height="17" font="3">                      </text>
+<text top="1032" left="799" width="5" height="17" font="3">-</text>
+<text top="1032" left="708" width="94" height="17" font="3">                         </text>
+<text top="1051" left="632" width="49" height="17" font="3">124,938</text>
+<text top="1051" left="587" width="49" height="17" font="3">             </text>
+<text top="1051" left="762" width="42" height="17" font="3">75,996</text>
+<text top="1051" left="709" width="57" height="17" font="3">               </text>
+<text top="1071" left="154" width="97" height="17" font="3">Total liabilities</text>
+<text top="1071" left="632" width="49" height="17" font="3">149,050</text>
+<text top="1071" left="587" width="49" height="17" font="3">             </text>
+<text top="1071" left="762" width="42" height="17" font="3">82,488</text>
+<text top="1071" left="709" width="57" height="17" font="3">               </text>
+<text top="1090" left="154" width="250" height="17" font="3">TOTAL EQUITY AND LIABILITIES</text>
+<text top="1090" left="632" width="49" height="17" font="3">344,640</text>
+<text top="1090" left="587" width="49" height="17" font="3">             </text>
+<text top="1090" left="754" width="49" height="17" font="3">152,354</text>
+<text top="1090" left="709" width="49" height="17" font="3">             </text>
+<text top="167" left="154" width="608" height="17" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF FINANCIAL POSITION</text>
+<text top="189" left="154" width="192" height="17" font="3">AS AT 31 DECEMBER 2019 </text>
+<text top="186" left="347" width="12" height="11" font="4">(1)</text>
+<text top="1145" left="488" width="8" height="18" font="2">1</text>
+</page>
+<page number="3" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="63" left="628" width="181" height="57" src="./test//xml/Q4 2019 Announcement.pdf-3_1.jpg"/>
+<text top="63" left="155" width="294" height="18" font="2">GREATECH TECHNOLOGY BERHAD</text>
+<text top="84" left="155" width="303" height="18" font="2">(Company No. 201801008633 (1270647-H))</text>
+<text top="106" left="155" width="387" height="18" font="2">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="128" left="155" width="635" height="18" font="2">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="189" left="600" width="68" height="17" font="3">Unaudited</text>
+<text top="189" left="730" width="52" height="17" font="3">Audited</text>
+<text top="210" left="617" width="33" height="17" font="3">As at</text>
+<text top="210" left="739" width="33" height="17" font="3">As at</text>
+<text top="231" left="599" width="69" height="17" font="3">31/12/2019</text>
+<text top="231" left="721" width="69" height="17" font="3">31/12/2018</text>
+<text top="269" left="154" width="253" height="17" font="3">Number of ordinary shares in issue (’000)</text>
+<text top="269" left="632" width="49" height="17" font="3">626,000</text>
+<text top="269" left="587" width="49" height="17" font="3">             </text>
+<text top="269" left="769" width="34" height="17" font="3">1,000</text>
+<text top="269" left="709" width="64" height="17" font="3">                 </text>
+<text top="290" left="154" width="371" height="17" font="3">Net assets per share attributable to owners of the parent (RM)</text>
+<text top="290" left="654" width="26" height="17" font="3">0.31</text>
+<text top="290" left="587" width="72" height="17" font="3">                   </text>
+<text top="290" left="769" width="34" height="17" font="3">69.87</text>
+<text top="290" left="709" width="64" height="17" font="3">                 </text>
+<text top="331" left="131" width="19" height="18" font="2">(1)</text>
+<text top="331" left="154" width="654" height="17" font="3">The Unaudited Condensed Consolidated Statement of Financial Position should be read in conjunction with</text>
+<text top="352" left="154" width="654" height="17" font="3">the Accountants’ Report as disclosed in the Prospectus of the Company dated 13 May 2019 and the</text>
+<text top="373" left="154" width="502" height="17" font="3">accompanying explanatory notes are an integral part of this interim financial report.</text>
+<text top="1145" left="488" width="8" height="18" font="2">2</text>
+</page>
+<page number="4" position="absolute" top="0" left="0" height="1188" width="918">
+	<fontspec id="5" size="12" family="Times" color="#000000"/>
+	<fontspec id="6" size="7" family="Times" color="#000000"/>
+<image top="64" left="635" width="175" height="54" src="./test//xml/Q4 2019 Announcement.pdf-4_1.jpg"/>
+<text top="63" left="160" width="283" height="18" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="83" left="160" width="295" height="18" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="160" width="376" height="18" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="125" left="160" width="616" height="18" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="285" left="441" width="67" height="16" font="5">31/12/2019</text>
+<text top="285" left="532" width="71" height="16" font="5">31/12/2018 </text>
+<text top="282" left="603" width="12" height="11" font="6">(2)</text>
+<text top="285" left="638" width="67" height="16" font="5">31/12/2019</text>
+<text top="285" left="734" width="67" height="16" font="5">31/12/2018</text>
+<text top="306" left="449" width="52" height="16" font="5">RM’000</text>
+<text top="306" left="547" width="52" height="16" font="5">RM’000</text>
+<text top="306" left="645" width="52" height="16" font="5">RM’000</text>
+<text top="306" left="742" width="52" height="16" font="5">RM’000</text>
+<text top="344" left="160" width="51" height="16" font="5">Revenue</text>
+<text top="344" left="468" width="41" height="16" font="5">58,515</text>
+<text top="344" left="440" width="30" height="16" font="5">        </text>
+<text top="344" left="586" width="25" height="16" font="5">N/A</text>
+<text top="344" left="657" width="48" height="16" font="5">215,935</text>
+<text top="344" left="638" width="23" height="16" font="5">      </text>
+<text top="344" left="756" width="48" height="16" font="5">219,582</text>
+<text top="344" left="734" width="26" height="16" font="5">       </text>
+<text top="382" left="160" width="76" height="16" font="5">Cost of sales</text>
+<text top="382" left="463" width="50" height="16" font="5">(35,206)</text>
+<text top="382" left="440" width="26" height="16" font="5">       </text>
+<text top="382" left="586" width="25" height="16" font="5">N/A</text>
+<text top="382" left="652" width="58" height="16" font="5">(143,076)</text>
+<text top="382" left="637" width="19" height="16" font="5">     </text>
+<text top="382" left="752" width="58" height="16" font="5">(174,349)</text>
+<text top="382" left="733" width="23" height="16" font="5">      </text>
+<text top="421" left="160" width="77" height="16" font="5">Gross profit</text>
+<text top="421" left="468" width="41" height="16" font="5">23,309</text>
+<text top="421" left="442" width="30" height="16" font="5">        </text>
+<text top="421" left="586" width="25" height="16" font="5">N/A</text>
+<text top="421" left="664" width="41" height="16" font="5">72,859</text>
+<text top="421" left="638" width="30" height="16" font="5">        </text>
+<text top="421" left="764" width="41" height="16" font="5">45,233</text>
+<text top="421" left="734" width="34" height="16" font="5">         </text>
+<text top="459" left="160" width="80" height="16" font="5">Other income</text>
+<text top="459" left="475" width="33" height="16" font="5">2,749</text>
+<text top="459" left="440" width="38" height="16" font="5">          </text>
+<text top="459" left="586" width="25" height="16" font="5">N/A</text>
+<text top="459" left="664" width="41" height="16" font="5">10,001</text>
+<text top="459" left="638" width="30" height="16" font="5">        </text>
+<text top="459" left="771" width="33" height="16" font="5">7,529</text>
+<text top="459" left="733" width="41" height="16" font="5">           </text>
+<text top="497" left="160" width="233" height="16" font="5">Administrative and marketing expenses</text>
+<text top="497" left="470" width="43" height="16" font="5">(4,724)</text>
+<text top="497" left="440" width="34" height="16" font="5">         </text>
+<text top="497" left="586" width="25" height="16" font="5">N/A</text>
+<text top="497" left="660" width="50" height="16" font="5">(24,383)</text>
+<text top="497" left="637" width="26" height="16" font="5">       </text>
+<text top="497" left="759" width="50" height="16" font="5">(20,340)</text>
+<text top="497" left="732" width="30" height="16" font="5">        </text>
+<text top="536" left="160" width="80" height="16" font="5">Finance costs</text>
+<text top="536" left="482" width="32" height="16" font="5">(363)</text>
+<text top="536" left="440" width="45" height="16" font="5">            </text>
+<text top="536" left="586" width="25" height="16" font="5">N/A</text>
+<text top="536" left="678" width="32" height="16" font="5">(905)</text>
+<text top="536" left="637" width="45" height="16" font="5">            </text>
+<text top="536" left="777" width="32" height="16" font="5">(561)</text>
+<text top="536" left="732" width="49" height="16" font="5">             </text>
+<text top="574" left="160" width="136" height="16" font="5">Profit before taxation</text>
+<text top="574" left="468" width="41" height="16" font="5">20,971</text>
+<text top="574" left="440" width="30" height="16" font="5">        </text>
+<text top="574" left="586" width="25" height="16" font="5">N/A</text>
+<text top="574" left="664" width="41" height="16" font="5">57,572</text>
+<text top="574" left="636" width="30" height="16" font="5">        </text>
+<text top="574" left="764" width="41" height="16" font="5">31,861</text>
+<text top="574" left="734" width="34" height="16" font="5">         </text>
+<text top="612" left="160" width="74" height="16" font="5">Tax expense</text>
+<text top="612" left="471" width="43" height="16" font="5">(4,950)</text>
+<text top="612" left="440" width="34" height="16" font="5">         </text>
+<text top="612" left="586" width="25" height="16" font="5">N/A</text>
+<text top="612" left="667" width="43" height="16" font="5">(5,276)</text>
+<text top="612" left="637" width="34" height="16" font="5">         </text>
+<text top="612" left="777" width="32" height="16" font="5">(142)</text>
+<text top="612" left="732" width="49" height="16" font="5">             </text>
+<text top="649" left="160" width="219" height="16" font="5">Profit for the financial period/year</text>
+<text top="649" left="468" width="41" height="16" font="5">16,021</text>
+<text top="649" left="442" width="30" height="16" font="5">        </text>
+<text top="649" left="586" width="25" height="16" font="5">N/A</text>
+<text top="649" left="664" width="41" height="16" font="5">52,296</text>
+<text top="649" left="638" width="30" height="16" font="5">        </text>
+<text top="649" left="764" width="41" height="16" font="5">31,719</text>
+<text top="649" left="734" width="34" height="16" font="5">         </text>
+<text top="689" left="160" width="251" height="16" font="5">Other comprehensive income, net of tax</text>
+<text top="709" left="160" width="268" height="16" font="5">Item that may be reclassified subsequently</text>
+<text top="729" left="160" width="108" height="16" font="5">   to profit or loss</text>
+<text top="770" left="160" width="172" height="16" font="5">Foreign currency translations</text>
+<text top="770" left="501" width="7" height="16" font="5">5</text>
+<text top="770" left="441" width="64" height="16" font="5">                 </text>
+<text top="770" left="586" width="25" height="16" font="5">N/A</text>
+<text top="770" left="698" width="7" height="16" font="5">7</text>
+<text top="770" left="637" width="64" height="16" font="5">                 </text>
+<text top="770" left="797" width="7" height="16" font="5">*</text>
+<text top="810" left="160" width="202" height="16" font="5">Item that will not be reclassified</text>
+<text top="830" left="160" width="194" height="16" font="5">   subsequently to profit or loss</text>
+<text top="870" left="160" width="251" height="16" font="5">Revaluation surplus on property, plant and</text>
+<text top="891" left="160" width="73" height="16" font="5">   equipment</text>
+<text top="891" left="475" width="33" height="16" font="5">1,970</text>
+<text top="891" left="442" width="38" height="16" font="5">          </text>
+<text top="891" left="586" width="25" height="16" font="5">N/A</text>
+<text top="891" left="672" width="33" height="16" font="5">1,970</text>
+<text top="891" left="638" width="38" height="16" font="5">          </text>
+<text top="891" left="800" width="5" height="16" font="5">-</text>
+<text top="891" left="732" width="72" height="16" font="5">                   </text>
+<text top="929" left="160" width="226" height="16" font="5">Total comprehensive income for the</text>
+<text top="949" left="160" width="238" height="16" font="5">   financial period/year attributable to</text>
+<text top="968" left="160" width="141" height="16" font="5">   owners of the parent</text>
+<text top="968" left="468" width="41" height="16" font="5">17,996</text>
+<text top="968" left="442" width="30" height="16" font="5">        </text>
+<text top="968" left="586" width="25" height="16" font="5">N/A</text>
+<text top="968" left="664" width="41" height="16" font="5">54,273</text>
+<text top="968" left="638" width="30" height="16" font="5">        </text>
+<text top="968" left="764" width="41" height="16" font="5">31,719</text>
+<text top="968" left="734" width="34" height="16" font="5">         </text>
+<text top="1008" left="160" width="203" height="16" font="5">Earnings per share attributable </text>
+<text top="1028" left="160" width="192" height="16" font="5">   to owners of the parent (sen)</text>
+<text top="1050" left="160" width="101" height="16" font="5">  - Basic/Diluted </text>
+<text top="1047" left="261" width="12" height="11" font="6">(3)</text>
+<text top="1047" left="483" width="26" height="16" font="5">2.56</text>
+<text top="1047" left="440" width="45" height="16" font="5">            </text>
+<text top="1047" left="586" width="25" height="16" font="5">N/A</text>
+<text top="1047" left="672" width="33" height="16" font="5">11.29</text>
+<text top="1047" left="636" width="38" height="16" font="5">          </text>
+<text top="1047" left="771" width="33" height="16" font="5">31.72</text>
+<text top="1047" left="733" width="41" height="16" font="5">           </text>
+<text top="164" left="160" width="593" height="16" font="5">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF PROFIT OR LOSS AND</text>
+<text top="243" left="465" width="121" height="16" font="5">Individual Quarter</text>
+<text top="243" left="656" width="129" height="16" font="5">Cumulative Quarter</text>
+<text top="205" left="160" width="242" height="16" font="5">YEAR ENDED 31 DECEMBER 2019 </text>
+<text top="202" left="402" width="12" height="11" font="6">(1)</text>
+<text top="184" left="160" width="593" height="16" font="5">OTHER COMPREHENSIVE INCOME FOR THE FOURTH QUARTER AND FINANCIAL</text>
+<text top="263" left="476" width="99" height="16" font="5">3 months ended</text>
+<text top="263" left="667" width="107" height="16" font="5">12 months ended</text>
+<text top="1146" left="488" width="8" height="18" font="3">3</text>
+</page>
+<page number="5" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="64" left="635" width="175" height="54" src="./test//xml/Q4 2019 Announcement.pdf-5_1.jpg"/>
+<text top="63" left="160" width="283" height="18" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="83" left="160" width="295" height="18" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="160" width="376" height="18" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="125" left="160" width="616" height="18" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="185" left="135" width="17" height="16" font="5">(1)</text>
+<text top="265" left="135" width="17" height="16" font="5">(2)</text>
+<text top="346" left="135" width="17" height="16" font="5">(3)</text>
+<text top="366" left="131" width="119" height="16" font="5">N/A Not applicable.</text>
+<text top="386" left="142" width="134" height="16" font="5">* Less than RM1,000</text>
+<text top="345" left="160" width="641" height="16" font="5">Based on weighted average number of ordinary shares in issue during the financial period/year under review.</text>
+<text top="184" left="160" width="649" height="16" font="5">The Unaudited Condensed Consolidated Statement of Profit or Loss and Other Comprehensive Income</text>
+<text top="204" left="160" width="649" height="16" font="5">should be read in conjunction with the Accountants’ Report as disclosed in the Prospectus of the Company</text>
+<text top="224" left="160" width="649" height="16" font="5">dated 13 May 2019 and the accompanying explanatory notes are an integral part of this interim financial</text>
+<text top="244" left="160" width="39" height="16" font="5">report.</text>
+<text top="264" left="160" width="649" height="16" font="5">No comparative figures for the preceding year corresponding quarter are presented as this is the fourth interim</text>
+<text top="284" left="160" width="649" height="16" font="5">financial report on the consolidated results for the period ended 31 December 2019 announced by the</text>
+<text top="304" left="160" width="649" height="16" font="5">Company in compliance with the ACE Market Listing Requirements of Bursa Malaysia Securities Berhad</text>
+<text top="325" left="160" width="163" height="16" font="5">(“Listing Requirements”).</text>
+<text top="1146" left="488" width="8" height="18" font="3">4</text>
+</page>
+<page number="6" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="64" left="635" width="171" height="53" src="./test//xml/Q4 2019 Announcement.pdf-6_1.jpg"/>
+<text top="66" left="154" width="279" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="154" width="289" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="106" left="154" width="368" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="127" left="154" width="603" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="253" left="668" width="75" height="16" font="5">Distributable</text>
+<text top="275" left="414" width="60" height="16" font="5">Exchange</text>
+<text top="275" left="570" width="94" height="16" font="5">Reorganisation</text>
+<text top="296" left="347" width="43" height="16" font="5"> Share </text>
+<text top="296" left="408" width="155" height="16" font="5"> translation  Revaluation</text>
+<text top="296" left="601" width="31" height="16" font="5">debit</text>
+<text top="296" left="674" width="62" height="16" font="5"> Retained </text>
+<text top="317" left="345" width="49" height="16" font="5"> capital </text>
+<text top="317" left="419" width="52" height="16" font="5"> reserve </text>
+<text top="317" left="499" width="53" height="16" font="5"> reserve </text>
+<text top="317" left="591" width="53" height="16" font="5"> reserve </text>
+<text top="317" left="679" width="53" height="16" font="5">earnings</text>
+<text top="317" left="756" width="40" height="16" font="5"> Total </text>
+<text top="337" left="340" width="58" height="16" font="5"> RM’000 </text>
+<text top="337" left="416" width="58" height="16" font="5"> RM’000 </text>
+<text top="337" left="496" width="58" height="16" font="5"> RM’000 </text>
+<text top="337" left="588" width="58" height="16" font="5"> RM’000 </text>
+<text top="337" left="676" width="128" height="16" font="5"> RM’000   RM’000 </text>
+<text top="378" left="154" width="168" height="16" font="5">Balance as at 1 January 2019</text>
+<text top="378" left="365" width="32" height="16" font="5">1,000</text>
+<text top="378" left="340" width="29" height="16" font="5">        </text>
+<text top="378" left="469" width="7" height="16" font="5">*</text>
+<text top="378" left="526" width="32" height="16" font="5">3,605</text>
+<text top="378" left="493" width="36" height="16" font="5">          </text>
+<text top="378" left="655" width="5" height="16" font="5">-</text>
+<text top="378" left="573" width="86" height="16" font="5">                        </text>
+<text top="378" left="696" width="40" height="16" font="5">65,261</text>
+<text top="378" left="678" width="22" height="16" font="5">      </text>
+<text top="378" left="761" width="40" height="16" font="5">69,866</text>
+<text top="378" left="751" width="14" height="16" font="5">    </text>
+<text top="440" left="154" width="157" height="16" font="5">Profit for the financial year</text>
+<text top="440" left="393" width="5" height="16" font="5">-</text>
+<text top="440" left="339" width="57" height="16" font="5">                </text>
+<text top="440" left="471" width="5" height="16" font="5">-</text>
+<text top="440" left="414" width="61" height="16" font="5">                 </text>
+<text top="440" left="553" width="5" height="16" font="5">-</text>
+<text top="440" left="492" width="65" height="16" font="5">                  </text>
+<text top="440" left="655" width="5" height="16" font="5">-</text>
+<text top="440" left="573" width="86" height="16" font="5">                        </text>
+<text top="440" left="696" width="40" height="16" font="5">52,296</text>
+<text top="440" left="678" width="22" height="16" font="5">      </text>
+<text top="440" left="761" width="40" height="16" font="5">52,296</text>
+<text top="440" left="751" width="14" height="16" font="5">    </text>
+<text top="481" left="154" width="168" height="16" font="5">Gross revaluation increase of</text>
+<text top="502" left="154" width="72" height="16" font="5">    properties</text>
+<text top="502" left="393" width="5" height="16" font="5">-</text>
+<text top="502" left="339" width="57" height="16" font="5">                </text>
+<text top="502" left="471" width="5" height="16" font="5">-</text>
+<text top="502" left="414" width="61" height="16" font="5">                 </text>
+<text top="502" left="526" width="32" height="16" font="5">2,592</text>
+<text top="502" left="493" width="36" height="16" font="5">          </text>
+<text top="502" left="655" width="5" height="16" font="5">-</text>
+<text top="502" left="573" width="86" height="16" font="5">                        </text>
+<text top="502" left="730" width="5" height="16" font="5">-</text>
+<text top="502" left="677" width="57" height="16" font="5">                </text>
+<text top="502" left="768" width="32" height="16" font="5">2,592</text>
+<text top="502" left="751" width="22" height="16" font="5">      </text>
+<text top="543" left="154" width="135" height="16" font="5">Deferred tax relating to</text>
+<text top="564" left="154" width="125" height="16" font="5">    revalued properties</text>
+<text top="564" left="393" width="5" height="16" font="5">-</text>
+<text top="564" left="339" width="57" height="16" font="5">                </text>
+<text top="564" left="471" width="5" height="16" font="5">-</text>
+<text top="564" left="414" width="61" height="16" font="5">                 </text>
+<text top="564" left="532" width="31" height="16" font="5">(622)</text>
+<text top="564" left="492" width="43" height="16" font="5">            </text>
+<text top="564" left="655" width="5" height="16" font="5">-</text>
+<text top="564" left="573" width="86" height="16" font="5">                        </text>
+<text top="564" left="730" width="5" height="16" font="5">-</text>
+<text top="564" left="677" width="57" height="16" font="5">                </text>
+<text top="564" left="774" width="31" height="16" font="5">(622)</text>
+<text top="564" left="753" width="25" height="16" font="5">       </text>
+<text top="605" left="154" width="148" height="16" font="5">Realisation of revaluation</text>
+<text top="626" left="154" width="56" height="16" font="5">    surplus</text>
+<text top="626" left="393" width="5" height="16" font="5">-</text>
+<text top="626" left="339" width="57" height="16" font="5">                </text>
+<text top="626" left="471" width="5" height="16" font="5">-</text>
+<text top="626" left="414" width="61" height="16" font="5">                 </text>
+<text top="626" left="532" width="31" height="16" font="5">(111)</text>
+<text top="626" left="492" width="43" height="16" font="5">            </text>
+<text top="626" left="655" width="5" height="16" font="5">-</text>
+<text top="626" left="573" width="86" height="16" font="5">                        </text>
+<text top="626" left="714" width="22" height="16" font="5">111</text>
+<text top="626" left="678" width="40" height="16" font="5">           </text>
+<text top="626" left="796" width="5" height="16" font="5">-</text>
+<text top="626" left="753" width="47" height="16" font="5">             </text>
+<text top="667" left="154" width="173" height="16" font="5">Other comprehensive income,</text>
+<text top="688" left="154" width="65" height="16" font="5">   net of tax</text>
+<text top="688" left="393" width="5" height="16" font="5">-</text>
+<text top="688" left="339" width="57" height="16" font="5">                </text>
+<text top="688" left="469" width="7" height="16" font="5">7</text>
+<text top="688" left="415" width="57" height="16" font="5">                </text>
+<text top="688" left="553" width="5" height="16" font="5">-</text>
+<text top="688" left="492" width="65" height="16" font="5">                  </text>
+<text top="688" left="655" width="5" height="16" font="5">-</text>
+<text top="688" left="573" width="86" height="16" font="5">                        </text>
+<text top="688" left="730" width="5" height="16" font="5">-</text>
+<text top="688" left="677" width="57" height="16" font="5">                </text>
+<text top="688" left="794" width="7" height="16" font="5">7</text>
+<text top="688" left="751" width="47" height="16" font="5">             </text>
+<text top="709" left="154" width="170" height="16" font="5">Total comprehensive income </text>
+<text top="709" left="393" width="5" height="16" font="5">-</text>
+<text top="709" left="339" width="57" height="16" font="5">                </text>
+<text top="709" left="469" width="7" height="16" font="5">7</text>
+<text top="709" left="415" width="57" height="16" font="5">                </text>
+<text top="709" left="526" width="32" height="16" font="5">1,859</text>
+<text top="709" left="493" width="36" height="16" font="5">          </text>
+<text top="709" left="655" width="5" height="16" font="5">-</text>
+<text top="709" left="573" width="86" height="16" font="5">                        </text>
+<text top="709" left="696" width="40" height="16" font="5">52,407</text>
+<text top="709" left="678" width="22" height="16" font="5">      </text>
+<text top="709" left="761" width="40" height="16" font="5">54,273</text>
+<text top="709" left="751" width="14" height="16" font="5">    </text>
+<text top="750" left="154" width="157" height="16" font="5">Transactions with owners:</text>
+<text top="771" left="154" width="169" height="16" font="5">Acquisition of subsidiaries in</text>
+<text top="792" left="154" width="171" height="16" font="5">   business combination under</text>
+<text top="812" left="154" width="105" height="16" font="5">   common control</text>
+<text top="812" left="358" width="40" height="16" font="5">39,500</text>
+<text top="812" left="340" width="22" height="16" font="5">      </text>
+<text top="812" left="471" width="5" height="16" font="5">-</text>
+<text top="812" left="412" width="61" height="16" font="5">                 </text>
+<text top="812" left="553" width="5" height="16" font="5">-</text>
+<text top="812" left="491" width="65" height="16" font="5">                  </text>
+<text top="812" left="615" width="49" height="16" font="5">(39,500)</text>
+<text top="812" left="573" width="43" height="16" font="5">            </text>
+<text top="812" left="731" width="5" height="16" font="5">-</text>
+<text top="812" left="675" width="57" height="16" font="5">                </text>
+<text top="812" left="796" width="5" height="16" font="5">-</text>
+<text top="812" left="753" width="47" height="16" font="5">             </text>
+<text top="854" left="154" width="105" height="16" font="5">Issuance of shares</text>
+<text top="854" left="358" width="40" height="16" font="5">73,048</text>
+<text top="854" left="340" width="22" height="16" font="5">      </text>
+<text top="854" left="471" width="5" height="16" font="5">-</text>
+<text top="854" left="412" width="61" height="16" font="5">                 </text>
+<text top="854" left="553" width="5" height="16" font="5">-</text>
+<text top="854" left="491" width="65" height="16" font="5">                  </text>
+<text top="854" left="655" width="5" height="16" font="5">-</text>
+<text top="854" left="573" width="86" height="16" font="5">                        </text>
+<text top="854" left="730" width="5" height="16" font="5">-</text>
+<text top="854" left="675" width="57" height="16" font="5">                </text>
+<text top="854" left="761" width="40" height="16" font="5">73,048</text>
+<text top="854" left="751" width="14" height="16" font="5">    </text>
+<text top="895" left="154" width="121" height="16" font="5">Share issue expenses</text>
+<text top="895" left="360" width="42" height="16" font="5">(1,597)</text>
+<text top="895" left="339" width="25" height="16" font="5">       </text>
+<text top="895" left="471" width="5" height="16" font="5">-</text>
+<text top="895" left="412" width="61" height="16" font="5">                 </text>
+<text top="895" left="553" width="5" height="16" font="5">-</text>
+<text top="895" left="491" width="65" height="16" font="5">                  </text>
+<text top="895" left="655" width="5" height="16" font="5">-</text>
+<text top="895" left="573" width="86" height="16" font="5">                        </text>
+<text top="895" left="730" width="5" height="16" font="5">-</text>
+<text top="895" left="675" width="57" height="16" font="5">                </text>
+<text top="895" left="764" width="42" height="16" font="5">(1,597)</text>
+<text top="895" left="753" width="14" height="16" font="5">    </text>
+<text top="916" left="351" width="47" height="16" font="5">110,951</text>
+<text top="916" left="340" width="14" height="16" font="5">    </text>
+<text top="916" left="471" width="5" height="16" font="5">-</text>
+<text top="916" left="414" width="61" height="16" font="5">                 </text>
+<text top="916" left="553" width="5" height="16" font="5">-</text>
+<text top="916" left="492" width="65" height="16" font="5">                  </text>
+<text top="916" left="615" width="49" height="16" font="5">(39,500)</text>
+<text top="916" left="576" width="43" height="16" font="5">            </text>
+<text top="916" left="731" width="5" height="16" font="5">-</text>
+<text top="916" left="677" width="57" height="16" font="5">                </text>
+<text top="916" left="761" width="40" height="16" font="5">71,451</text>
+<text top="916" left="751" width="14" height="16" font="5">    </text>
+<text top="957" left="154" width="157" height="16" font="5">Balance as at 31 December</text>
+<text top="977" left="154" width="40" height="16" font="5">   2019</text>
+<text top="977" left="351" width="47" height="16" font="5">111,951</text>
+<text top="977" left="340" width="14" height="16" font="5">    </text>
+<text top="977" left="469" width="7" height="16" font="5">7</text>
+<text top="977" left="415" width="57" height="16" font="5">                </text>
+<text top="977" left="526" width="32" height="16" font="5">5,464</text>
+<text top="977" left="493" width="36" height="16" font="5">          </text>
+<text top="977" left="616" width="49" height="16" font="5">(39,500)</text>
+<text top="977" left="576" width="43" height="16" font="5">            </text>
+<text top="977" left="688" width="47" height="16" font="5">117,668</text>
+<text top="977" left="678" width="14" height="16" font="5">    </text>
+<text top="977" left="754" width="47" height="16" font="5">195,590</text>
+<text top="977" left="751" width="7" height="16" font="5">  </text>
+<text top="1018" left="131" width="18" height="17" font="3">(1)</text>
+<text top="1081" left="137" width="130" height="16" font="5">* Less than RM1,000</text>
+<text top="233" left="415" width="311" height="16" font="5">|--------- Attributable to Owners of the Parent ----------|</text>
+<text top="171" left="154" width="607" height="16" font="5">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CHANGES IN EQUITY FOR</text>
+<text top="191" left="154" width="526" height="16" font="5">THE FOURTH QUARTER AND FINANCIAL YEAR ENDED 31 DECEMBER 2019</text>
+<text top="188" left="680" width="14" height="11" font="6"> (1)</text>
+<text top="1018" left="154" width="652" height="16" font="5">The Unaudited Condensed Consolidated Statement of Changes In Equity should be read in conjunction with the</text>
+<text top="1039" left="154" width="652" height="16" font="5">Accountants’ Report as disclosed in the Prospectus of the Company dated 13 May 2019 and the accompanying</text>
+<text top="1060" left="154" width="394" height="16" font="5">explanatory notes are an integral part of this interim financial report.</text>
+<text top="253" left="340" width="320" height="16" font="5">|---------------------- Non-distributable ----------------------|</text>
+<text top="1146" left="488" width="8" height="17" font="3">5</text>
+</page>
+<page number="7" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="64" left="626" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-7_1.jpg"/>
+<text top="67" left="161" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="88" left="161" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="108" left="161" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="129" left="161" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="256" left="610" width="69" height="17" font="3">31/12/2019</text>
+<text top="256" left="724" width="69" height="17" font="3">31/12/2018</text>
+<text top="277" left="618" width="53" height="17" font="3">RM’000</text>
+<text top="277" left="732" width="53" height="17" font="3">RM’000</text>
+<text top="317" left="161" width="233" height="17" font="3">Cash flows from operating activities</text>
+<text top="338" left="161" width="129" height="17" font="3">Profit before taxation</text>
+<text top="338" left="647" width="42" height="17" font="3">57,572</text>
+<text top="338" left="600" width="49" height="17" font="3">             </text>
+<text top="338" left="761" width="42" height="17" font="3">31,861</text>
+<text top="338" left="716" width="49" height="17" font="3">             </text>
+<text top="359" left="161" width="102" height="17" font="3">Adjustments for:</text>
+<text top="380" left="161" width="220" height="17" font="3">    Amortisation of government grant</text>
+<text top="380" left="661" width="33" height="17" font="3">(132)</text>
+<text top="380" left="600" width="64" height="17" font="3">                 </text>
+<text top="380" left="775" width="33" height="17" font="3">(115)</text>
+<text top="380" left="714" width="64" height="17" font="3">                 </text>
+<text top="401" left="161" width="143" height="17" font="3">    Bad debts written off</text>
+<text top="401" left="666" width="23" height="17" font="3">184</text>
+<text top="401" left="600" width="68" height="17" font="3">                  </text>
+<text top="401" left="798" width="5" height="17" font="3">-</text>
+<text top="401" left="715" width="87" height="17" font="3">                       </text>
+<text top="422" left="161" width="294" height="17" font="3">    Depreciation of property, plant and equipment</text>
+<text top="422" left="654" width="34" height="17" font="3">2,268</text>
+<text top="422" left="600" width="57" height="17" font="3">               </text>
+<text top="422" left="768" width="34" height="17" font="3">2,418</text>
+<text top="422" left="716" width="57" height="17" font="3">               </text>
+<text top="442" left="161" width="223" height="17" font="3">    Depreciation of right-of-use assets</text>
+<text top="442" left="654" width="34" height="17" font="3">2,221</text>
+<text top="442" left="600" width="57" height="17" font="3">               </text>
+<text top="442" left="798" width="5" height="17" font="3">-</text>
+<text top="442" left="715" width="87" height="17" font="3">                       </text>
+<text top="463" left="161" width="261" height="17" font="3">    Fair value gain on derivative instruments</text>
+<text top="463" left="676" width="18" height="17" font="3">(9)</text>
+<text top="463" left="600" width="79" height="17" font="3">                     </text>
+<text top="463" left="798" width="5" height="17" font="3">-</text>
+<text top="463" left="715" width="87" height="17" font="3">                       </text>
+<text top="484" left="161" width="318" height="17" font="3">    Gain on disposal of property, plant and equipment</text>
+<text top="484" left="668" width="25" height="17" font="3">(63)</text>
+<text top="484" left="600" width="72" height="17" font="3">                   </text>
+<text top="484" left="798" width="5" height="17" font="3">-</text>
+<text top="484" left="715" width="87" height="17" font="3">                       </text>
+<text top="505" left="161" width="236" height="17" font="3">    Impairment loss on trade receivables</text>
+<text top="505" left="666" width="23" height="17" font="3">180</text>
+<text top="505" left="600" width="68" height="17" font="3">                  </text>
+<text top="505" left="780" width="23" height="17" font="3">523</text>
+<text top="505" left="716" width="68" height="17" font="3">                  </text>
+<text top="526" left="161" width="113" height="17" font="3">    Interest expense</text>
+<text top="526" left="666" width="23" height="17" font="3">905</text>
+<text top="526" left="600" width="68" height="17" font="3">                  </text>
+<text top="526" left="780" width="23" height="17" font="3">561</text>
+<text top="526" left="716" width="68" height="17" font="3">                  </text>
+<text top="547" left="161" width="108" height="17" font="3">    Interest income</text>
+<text top="547" left="661" width="33" height="17" font="3">(640)</text>
+<text top="547" left="600" width="64" height="17" font="3">                 </text>
+<text top="547" left="782" width="25" height="17" font="3">(53)</text>
+<text top="547" left="714" width="72" height="17" font="3">                   </text>
+<text top="568" left="161" width="166" height="17" font="3">    Inventories written down</text>
+<text top="568" left="666" width="23" height="17" font="3">201</text>
+<text top="568" left="600" width="68" height="17" font="3">                  </text>
+<text top="568" left="798" width="5" height="17" font="3">-</text>
+<text top="568" left="715" width="87" height="17" font="3">                       </text>
+<text top="589" left="161" width="335" height="17" font="3">    Loss on revaluation of property, plant and equipment</text>
+<text top="589" left="666" width="23" height="17" font="3">937</text>
+<text top="589" left="600" width="68" height="17" font="3">                  </text>
+<text top="589" left="798" width="5" height="17" font="3">-</text>
+<text top="589" left="715" width="87" height="17" font="3">                       </text>
+<text top="610" left="161" width="264" height="17" font="3">    Property, plant and equipment written off</text>
+<text top="609" left="681" width="8" height="17" font="3">2</text>
+<text top="609" left="602" width="83" height="17" font="3">                      </text>
+<text top="610" left="795" width="8" height="17" font="3">2</text>
+<text top="610" left="716" width="83" height="17" font="3">                      </text>
+<text top="630" left="161" width="161" height="17" font="3">    Provision for warranties</text>
+<text top="630" left="647" width="42" height="17" font="3">14,732</text>
+<text top="630" left="600" width="49" height="17" font="3">             </text>
+<text top="630" left="761" width="42" height="17" font="3">15,887</text>
+<text top="630" left="716" width="49" height="17" font="3">             </text>
+<text top="651" left="161" width="308" height="17" font="3">    Reversal of impairment loss on trade receivables</text>
+<text top="651" left="661" width="33" height="17" font="3">(523)</text>
+<text top="651" left="600" width="64" height="17" font="3">                 </text>
+<text top="651" left="775" width="33" height="17" font="3">(242)</text>
+<text top="651" left="714" width="64" height="17" font="3">                 </text>
+<text top="672" left="161" width="279" height="17" font="3">    Reversal of unused provision for warranties</text>
+<text top="672" left="661" width="33" height="17" font="3">(307)</text>
+<text top="672" left="600" width="64" height="17" font="3">                 </text>
+<text top="672" left="798" width="5" height="17" font="3">-</text>
+<text top="672" left="715" width="87" height="17" font="3">                       </text>
+<text top="693" left="161" width="213" height="17" font="3">    Share-based payment transaction</text>
+<text top="693" left="684" width="5" height="17" font="3">-</text>
+<text top="693" left="600" width="87" height="17" font="3">                       </text>
+<text top="693" left="768" width="34" height="17" font="3">4,085</text>
+<text top="693" left="716" width="57" height="17" font="3">               </text>
+<text top="714" left="161" width="234" height="17" font="3">    Unrealised loss on foreign exchange</text>
+<text top="714" left="654" width="34" height="17" font="3">3,082</text>
+<text top="714" left="600" width="57" height="17" font="3">               </text>
+<text top="714" left="768" width="34" height="17" font="3">2,962</text>
+<text top="714" left="716" width="57" height="17" font="3">               </text>
+<text top="756" left="161" width="305" height="17" font="3">Operating profit before changes in working capital</text>
+<text top="756" left="647" width="42" height="17" font="3">80,610</text>
+<text top="756" left="600" width="49" height="17" font="3">             </text>
+<text top="756" left="761" width="42" height="17" font="3">57,889</text>
+<text top="756" left="714" width="49" height="17" font="3">             </text>
+<text top="775" left="161" width="141" height="17" font="3">Decrease in inventories</text>
+<text top="775" left="666" width="23" height="17" font="3">528</text>
+<text top="775" left="600" width="68" height="17" font="3">                  </text>
+<text top="775" left="768" width="34" height="17" font="3">3,905</text>
+<text top="775" left="716" width="57" height="17" font="3">               </text>
+<text top="797" left="161" width="300" height="17" font="3">(Increase)/Decrease in trade and other receivables</text>
+<text top="797" left="642" width="52" height="17" font="3">(11,273)</text>
+<text top="797" left="600" width="45" height="17" font="3">            </text>
+<text top="797" left="761" width="42" height="17" font="3">15,367</text>
+<text top="797" left="716" width="49" height="17" font="3">             </text>
+<text top="818" left="161" width="157" height="17" font="3">Increase in contract assets</text>
+<text top="818" left="661" width="33" height="17" font="3">(475)</text>
+<text top="818" left="600" width="64" height="17" font="3">                 </text>
+<text top="818" left="763" width="44" height="17" font="3">(2,807)</text>
+<text top="818" left="714" width="53" height="17" font="3">              </text>
+<text top="839" left="161" width="285" height="17" font="3">(Decrease)/Increase in trade and other payables</text>
+<text top="839" left="649" width="44" height="17" font="3">(7,330)</text>
+<text top="839" left="600" width="53" height="17" font="3">              </text>
+<text top="839" left="761" width="42" height="17" font="3">11,208</text>
+<text top="839" left="716" width="49" height="17" font="3">             </text>
+<text top="860" left="161" width="247" height="17" font="3">Increase/(Decrease) in contract liabilities</text>
+<text top="860" left="647" width="42" height="17" font="3">42,013</text>
+<text top="860" left="600" width="49" height="17" font="3">             </text>
+<text top="860" left="763" width="44" height="17" font="3">(8,217)</text>
+<text top="860" left="714" width="53" height="17" font="3">              </text>
+<text top="881" left="161" width="96" height="17" font="3">Warranties paid</text>
+<text top="881" left="668" width="25" height="17" font="3">(35)</text>
+<text top="881" left="600" width="72" height="17" font="3">                   </text>
+<text top="881" left="782" width="25" height="17" font="3">(33)</text>
+<text top="881" left="714" width="72" height="17" font="3">                   </text>
+<text top="923" left="161" width="192" height="17" font="3">Cash generated from operations</text>
+<text top="923" left="639" width="49" height="17" font="3">104,038</text>
+<text top="923" left="600" width="42" height="17" font="3">           </text>
+<text top="923" left="761" width="42" height="17" font="3">77,312</text>
+<text top="923" left="714" width="49" height="17" font="3">             </text>
+<text top="944" left="161" width="100" height="17" font="3">Interest received</text>
+<text top="944" left="666" width="23" height="17" font="3">640</text>
+<text top="944" left="600" width="68" height="17" font="3">                  </text>
+<text top="944" left="787" width="15" height="17" font="3">53</text>
+<text top="944" left="716" width="75" height="17" font="3">                    </text>
+<text top="964" left="161" width="75" height="17" font="3">Interest paid</text>
+<text top="964" left="661" width="33" height="17" font="3">(615)</text>
+<text top="964" left="600" width="64" height="17" font="3">                 </text>
+<text top="964" left="775" width="33" height="17" font="3">(561)</text>
+<text top="964" left="714" width="64" height="17" font="3">                 </text>
+<text top="985" left="161" width="53" height="17" font="3">Tax paid</text>
+<text top="985" left="661" width="33" height="17" font="3">(670)</text>
+<text top="985" left="600" width="64" height="17" font="3">                 </text>
+<text top="985" left="775" width="33" height="17" font="3">(694)</text>
+<text top="985" left="714" width="64" height="17" font="3">                 </text>
+<text top="1006" left="161" width="81" height="17" font="3">Tax refunded</text>
+<text top="1006" left="666" width="23" height="17" font="3">740</text>
+<text top="1006" left="600" width="68" height="17" font="3">                  </text>
+<text top="1006" left="798" width="5" height="17" font="3">-</text>
+<text top="1006" left="715" width="87" height="17" font="3">                       </text>
+<text top="1048" left="161" width="203" height="17" font="3">Net cash from operating activities</text>
+<text top="1048" left="639" width="49" height="17" font="3">104,133</text>
+<text top="1048" left="600" width="42" height="17" font="3">           </text>
+<text top="1048" left="761" width="42" height="17" font="3">76,110</text>
+<text top="1048" left="714" width="49" height="17" font="3">             </text>
+<text top="192" left="161" width="522" height="17" font="3">FOURTH QUARTER AND FINANCIAL YEAR ENDED 31 DECEMBER 2019 </text>
+<text top="189" left="683" width="12" height="11" font="4">(1)</text>
+<text top="235" left="647" width="109" height="17" font="3">12 months ended</text>
+<text top="171" left="161" width="616" height="17" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE</text>
+<text top="1145" left="488" width="8" height="18" font="2">6</text>
+</page>
+<page number="8" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="64" left="626" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-8_1.jpg"/>
+<text top="67" left="161" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="88" left="161" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="108" left="161" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="129" left="161" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="192" left="161" width="522" height="17" font="3">FOURTH QUARTER AND FINANCIAL YEAR ENDED 31 DECEMBER 2019 </text>
+<text top="189" left="683" width="12" height="11" font="4">(1)</text>
+<text top="171" left="161" width="616" height="17" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE</text>
+<text top="256" left="610" width="69" height="17" font="3">31/12/2019</text>
+<text top="256" left="724" width="69" height="17" font="3">31/12/2018</text>
+<text top="277" left="618" width="53" height="17" font="3">RM’000</text>
+<text top="277" left="732" width="53" height="17" font="3">RM’000</text>
+<text top="317" left="161" width="229" height="17" font="3">Cash flows from investing activities</text>
+<text top="338" left="161" width="316" height="17" font="3">Net changes in deposits pledged with licensed banks</text>
+<text top="338" left="660" width="33" height="17" font="3">(104)</text>
+<text top="338" left="600" width="64" height="17" font="3">                 </text>
+<text top="338" left="775" width="33" height="17" font="3">(988)</text>
+<text top="338" left="714" width="64" height="17" font="3">                 </text>
+<text top="359" left="161" width="336" height="17" font="3">Proceed from disposal of property, plant and equipment</text>
+<text top="359" left="673" width="15" height="17" font="3">63</text>
+<text top="359" left="600" width="75" height="17" font="3">                    </text>
+<text top="359" left="798" width="5" height="17" font="3">-</text>
+<text top="359" left="715" width="87" height="17" font="3">                       </text>
+<text top="380" left="161" width="256" height="17" font="3">Purchase of property, plant and equipment</text>
+<text top="380" left="642" width="52" height="17" font="3">(12,111)</text>
+<text top="380" left="600" width="45" height="17" font="3">            </text>
+<text top="380" left="756" width="52" height="17" font="3">(11,955)</text>
+<text top="380" left="714" width="45" height="17" font="3">            </text>
+<text top="401" left="161" width="185" height="17" font="3">Purchase of right-of-use assets</text>
+<text top="401" left="642" width="52" height="17" font="3">(16,987)</text>
+<text top="401" left="600" width="45" height="17" font="3">            </text>
+<text top="401" left="798" width="5" height="17" font="3">-</text>
+<text top="401" left="714" width="87" height="17" font="3">                       </text>
+<text top="442" left="161" width="216" height="17" font="3">Net cash used in investing activities</text>
+<text top="442" left="642" width="52" height="17" font="3">(29,139)</text>
+<text top="442" left="600" width="45" height="17" font="3">            </text>
+<text top="442" left="756" width="52" height="17" font="3">(12,943)</text>
+<text top="442" left="714" width="45" height="17" font="3">            </text>
+<text top="484" left="161" width="231" height="17" font="3">Cash flows from financing activities</text>
+<text top="505" left="161" width="92" height="17" font="3">Dividends paid</text>
+<text top="505" left="684" width="5" height="17" font="3">-</text>
+<text top="505" left="600" width="87" height="17" font="3">                       </text>
+<text top="505" left="763" width="44" height="17" font="3">(5,703)</text>
+<text top="505" left="714" width="53" height="17" font="3">              </text>
+<text top="526" left="161" width="164" height="17" font="3">Government grant received</text>
+<text top="526" left="684" width="5" height="17" font="3">-</text>
+<text top="526" left="600" width="87" height="17" font="3">                       </text>
+<text top="526" left="780" width="23" height="17" font="3">242</text>
+<text top="526" left="716" width="68" height="17" font="3">                  </text>
+<text top="547" left="161" width="92" height="17" font="3">Proceeds from:</text>
+<text top="568" left="161" width="136" height="17" font="3">- bankers’ acceptances</text>
+<text top="568" left="684" width="5" height="17" font="3">-</text>
+<text top="568" left="600" width="87" height="17" font="3">                       </text>
+<text top="568" left="768" width="34" height="17" font="3">2,641</text>
+<text top="568" left="716" width="57" height="17" font="3">               </text>
+<text top="589" left="161" width="172" height="17" font="3">- issuance of ordinary shares</text>
+<text top="589" left="647" width="42" height="17" font="3">73,048</text>
+<text top="589" left="600" width="49" height="17" font="3">             </text>
+<text top="589" left="798" width="5" height="17" font="3">-</text>
+<text top="589" left="715" width="87" height="17" font="3">                       </text>
+<text top="610" left="161" width="71" height="17" font="3">- term loans</text>
+<text top="610" left="647" width="42" height="17" font="3">19,181</text>
+<text top="610" left="600" width="49" height="17" font="3">             </text>
+<text top="610" left="798" width="5" height="17" font="3">-</text>
+<text top="610" left="715" width="87" height="17" font="3">                       </text>
+<text top="651" left="161" width="126" height="17" font="3">Share issue expenses</text>
+<text top="651" left="649" width="44" height="17" font="3">(1,597)</text>
+<text top="651" left="600" width="53" height="17" font="3">              </text>
+<text top="651" left="798" width="5" height="17" font="3">-</text>
+<text top="651" left="715" width="87" height="17" font="3">                       </text>
+<text top="693" left="161" width="89" height="17" font="3">Repayment of:</text>
+<text top="714" left="161" width="146" height="17" font="3">- hire purchase creditors</text>
+<text top="714" left="684" width="5" height="17" font="3">-</text>
+<text top="714" left="600" width="87" height="17" font="3">                       </text>
+<text top="714" left="763" width="44" height="17" font="3">(1,449)</text>
+<text top="714" left="714" width="53" height="17" font="3">              </text>
+<text top="735" left="161" width="136" height="17" font="3">- bankers’ acceptances</text>
+<text top="735" left="684" width="5" height="17" font="3">-</text>
+<text top="735" left="600" width="87" height="17" font="3">                       </text>
+<text top="735" left="763" width="44" height="17" font="3">(2,641)</text>
+<text top="735" left="714" width="53" height="17" font="3">              </text>
+<text top="756" left="161" width="98" height="17" font="3">- lease liabilities</text>
+<text top="756" left="649" width="44" height="17" font="3">(4,694)</text>
+<text top="756" left="600" width="53" height="17" font="3">              </text>
+<text top="756" left="798" width="5" height="17" font="3">-</text>
+<text top="756" left="714" width="87" height="17" font="3">                       </text>
+<text top="777" left="161" width="71" height="17" font="3">- term loans</text>
+<text top="777" left="650" width="44" height="17" font="3">(5,148)</text>
+<text top="777" left="600" width="53" height="17" font="3">              </text>
+<text top="777" left="775" width="33" height="17" font="3">(719)</text>
+<text top="777" left="714" width="64" height="17" font="3">                 </text>
+<text top="797" left="161" width="261" height="17" font="3">Net cash from/(used in) financing activities</text>
+<text top="797" left="647" width="42" height="17" font="3">80,790</text>
+<text top="797" left="600" width="49" height="17" font="3">             </text>
+<text top="797" left="763" width="44" height="17" font="3">(7,629)</text>
+<text top="797" left="714" width="53" height="17" font="3">              </text>
+<text top="839" left="161" width="249" height="17" font="3">Net increase in cash and cash equivalents</text>
+<text top="839" left="639" width="49" height="17" font="3">155,784</text>
+<text top="839" left="600" width="42" height="17" font="3">           </text>
+<text top="839" left="761" width="42" height="17" font="3">55,538</text>
+<text top="839" left="714" width="49" height="17" font="3">             </text>
+<text top="880" left="161" width="393" height="17" font="3">Effect of exchange rate changes on cash and cash equivalents</text>
+<text top="881" left="650" width="44" height="17" font="3">(2,949)</text>
+<text top="881" left="600" width="53" height="17" font="3">              </text>
+<text top="881" left="763" width="44" height="17" font="3">(2,722)</text>
+<text top="881" left="714" width="53" height="17" font="3">              </text>
+<text top="923" left="161" width="381" height="17" font="3">Cash and cash equivalents as at beginning of financial year</text>
+<text top="923" left="647" width="42" height="17" font="3">62,273</text>
+<text top="923" left="600" width="49" height="17" font="3">             </text>
+<text top="923" left="768" width="34" height="17" font="3">9,457</text>
+<text top="923" left="714" width="57" height="17" font="3">               </text>
+<text top="963" left="161" width="340" height="17" font="3">Cash and cash equivalents as at end of financial year</text>
+<text top="963" left="640" width="49" height="17" font="3">215,108</text>
+<text top="963" left="600" width="42" height="17" font="3">           </text>
+<text top="963" left="761" width="42" height="17" font="3">62,273</text>
+<text top="963" left="714" width="49" height="17" font="3">             </text>
+<text top="235" left="647" width="109" height="17" font="3">12 months ended</text>
+<text top="1145" left="488" width="8" height="18" font="2">7</text>
+</page>
+<page number="9" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="64" left="626" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-9_1.jpg"/>
+<text top="67" left="161" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="88" left="161" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="108" left="161" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="129" left="161" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="192" left="161" width="522" height="17" font="3">FOURTH QUARTER AND FINANCIAL YEAR ENDED 31 DECEMBER 2019 </text>
+<text top="189" left="683" width="12" height="11" font="4">(1)</text>
+<text top="171" left="161" width="616" height="17" font="3">UNAUDITED CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS FOR THE</text>
+<text top="256" left="610" width="69" height="17" font="3">31/12/2019</text>
+<text top="256" left="724" width="69" height="17" font="3">31/12/2018</text>
+<text top="277" left="618" width="53" height="17" font="3">RM’000</text>
+<text top="277" left="732" width="53" height="17" font="3">RM’000</text>
+<text top="317" left="161" width="495" height="17" font="3">Cash and cash equivalents comprise the following as at end of financial year:</text>
+<text top="338" left="161" width="144" height="17" font="3">Cash and bank balances</text>
+<text top="338" left="647" width="42" height="17" font="3">38,476</text>
+<text top="338" left="600" width="49" height="17" font="3">             </text>
+<text top="338" left="768" width="34" height="17" font="3">9,559</text>
+<text top="338" left="716" width="57" height="17" font="3">               </text>
+<text top="359" left="161" width="175" height="17" font="3">Deposits with licensed banks</text>
+<text top="359" left="654" width="34" height="17" font="3">2,928</text>
+<text top="359" left="600" width="57" height="17" font="3">               </text>
+<text top="359" left="768" width="34" height="17" font="3">2,825</text>
+<text top="359" left="716" width="57" height="17" font="3">               </text>
+<text top="380" left="161" width="101" height="17" font="3">Short term funds</text>
+<text top="380" left="639" width="49" height="17" font="3">176,528</text>
+<text top="380" left="600" width="42" height="17" font="3">           </text>
+<text top="380" left="761" width="42" height="17" font="3">52,609</text>
+<text top="380" left="716" width="49" height="17" font="3">             </text>
+<text top="401" left="640" width="49" height="17" font="3">217,932</text>
+<text top="401" left="600" width="42" height="17" font="3">           </text>
+<text top="401" left="761" width="42" height="17" font="3">64,993</text>
+<text top="401" left="714" width="49" height="17" font="3">             </text>
+<text top="422" left="161" width="247" height="17" font="3">Less: Deposits pledged to licensed banks</text>
+<text top="422" left="649" width="44" height="17" font="3">(2,824)</text>
+<text top="422" left="600" width="53" height="17" font="3">              </text>
+<text top="422" left="763" width="44" height="17" font="3">(2,720)</text>
+<text top="422" left="714" width="53" height="17" font="3">              </text>
+<text top="441" left="640" width="49" height="17" font="3">215,108</text>
+<text top="441" left="600" width="42" height="17" font="3">           </text>
+<text top="441" left="761" width="42" height="17" font="3">62,273</text>
+<text top="441" left="714" width="49" height="17" font="3">             </text>
+<text top="484" left="161" width="371" height="17" font="3">Reconciliation of liabilities arising from financing activities</text>
+<text top="505" left="599" width="92" height="17" font="3">Hire purchase</text>
+<text top="526" left="479" width="99" height="17" font="3">Lease liabilities</text>
+<text top="526" left="616" width="58" height="17" font="3">creditors</text>
+<text top="526" left="722" width="73" height="17" font="3">Term loans</text>
+<text top="547" left="502" width="53" height="17" font="3">RM’000</text>
+<text top="547" left="618" width="53" height="17" font="3">RM’000</text>
+<text top="547" left="732" width="53" height="17" font="3">RM’000</text>
+<text top="568" left="161" width="175" height="17" font="3">Balance as at 1 January 2018</text>
+<text top="568" left="570" width="5" height="17" font="3">-</text>
+<text top="568" left="482" width="91" height="17" font="3">                        </text>
+<text top="568" left="654" width="34" height="17" font="3">3,225</text>
+<text top="568" left="600" width="57" height="17" font="3">               </text>
+<text top="568" left="768" width="34" height="17" font="3">5,815</text>
+<text top="568" left="714" width="57" height="17" font="3">               </text>
+<text top="589" left="161" width="68" height="17" font="3">Cash flows</text>
+<text top="589" left="570" width="5" height="17" font="3">-</text>
+<text top="589" left="482" width="91" height="17" font="3">                        </text>
+<text top="589" left="661" width="33" height="17" font="3">(178)</text>
+<text top="589" left="600" width="64" height="17" font="3">                 </text>
+<text top="589" left="775" width="33" height="17" font="3">(719)</text>
+<text top="589" left="714" width="64" height="17" font="3">                 </text>
+<text top="608" left="161" width="197" height="17" font="3">Balance as at 31 December 2018</text>
+<text top="608" left="570" width="5" height="17" font="3">-</text>
+<text top="608" left="482" width="91" height="17" font="3">                        </text>
+<text top="608" left="654" width="34" height="17" font="3">3,047</text>
+<text top="608" left="600" width="57" height="17" font="3">               </text>
+<text top="608" left="768" width="34" height="17" font="3">5,096</text>
+<text top="608" left="714" width="57" height="17" font="3">               </text>
+<text top="651" left="161" width="262" height="17" font="3">Balance as at 1 January 2019, as previously</text>
+<text top="672" left="161" width="58" height="17" font="3">  reported</text>
+<text top="672" left="570" width="5" height="17" font="3">-</text>
+<text top="672" left="482" width="91" height="17" font="3">                        </text>
+<text top="672" left="654" width="34" height="17" font="3">3,047</text>
+<text top="672" left="600" width="57" height="17" font="3">               </text>
+<text top="672" left="768" width="34" height="17" font="3">5,096</text>
+<text top="672" left="714" width="57" height="17" font="3">               </text>
+<text top="693" left="161" width="196" height="17" font="3">Effects of adoption of MFRS 16</text>
+<text top="693" left="540" width="34" height="17" font="3">7,558</text>
+<text top="693" left="482" width="60" height="17" font="3">                </text>
+<text top="693" left="649" width="44" height="17" font="3">(3,047)</text>
+<text top="693" left="600" width="53" height="17" font="3">              </text>
+<text top="693" left="798" width="5" height="17" font="3">-</text>
+<text top="693" left="714" width="87" height="17" font="3">                       </text>
+<text top="714" left="161" width="246" height="17" font="3">Balance as at 1 January 2019, as restated</text>
+<text top="714" left="540" width="34" height="17" font="3">7,558</text>
+<text top="714" left="482" width="60" height="17" font="3">                </text>
+<text top="714" left="684" width="5" height="17" font="3">-</text>
+<text top="714" left="600" width="87" height="17" font="3">                       </text>
+<text top="714" left="768" width="34" height="17" font="3">5,096</text>
+<text top="714" left="714" width="57" height="17" font="3">               </text>
+<text top="735" left="161" width="68" height="17" font="3">Cash flows</text>
+<text top="735" left="536" width="44" height="17" font="3">(4,331)</text>
+<text top="735" left="482" width="57" height="17" font="3">               </text>
+<text top="735" left="684" width="5" height="17" font="3">-</text>
+<text top="735" left="600" width="87" height="17" font="3">                       </text>
+<text top="735" left="761" width="42" height="17" font="3">14,033</text>
+<text top="735" left="714" width="49" height="17" font="3">             </text>
+<text top="756" left="161" width="99" height="17" font="3">Non-cash flows:</text>
+<text top="777" left="161" width="137" height="17" font="3">- unwinding of interest</text>
+<text top="777" left="552" width="23" height="17" font="3">290</text>
+<text top="777" left="482" width="72" height="17" font="3">                   </text>
+<text top="777" left="684" width="5" height="17" font="3">-</text>
+<text top="777" left="600" width="87" height="17" font="3">                       </text>
+<text top="777" left="798" width="5" height="17" font="3">-</text>
+<text top="777" left="714" width="87" height="17" font="3">                       </text>
+<text top="796" left="161" width="197" height="17" font="3">Balance as at 31 December 2019</text>
+<text top="796" left="540" width="34" height="17" font="3">3,517</text>
+<text top="796" left="482" width="60" height="17" font="3">                </text>
+<text top="796" left="684" width="5" height="17" font="3">-</text>
+<text top="796" left="600" width="87" height="17" font="3">                       </text>
+<text top="796" left="761" width="42" height="17" font="3">19,129</text>
+<text top="796" left="714" width="49" height="17" font="3">             </text>
+<text top="881" left="135" width="18" height="17" font="3">(1)</text>
+<text top="944" left="143" width="136" height="17" font="3">* Less than RM1,000</text>
+<text top="880" left="161" width="647" height="17" font="3">The Unaudited Condensed Consolidated Statement of Cash Flows should be read in conjunction with the</text>
+<text top="901" left="161" width="647" height="17" font="3">Accountants’ Report as disclosed in the Prospectus of the Company dated 13 May 2019 and the</text>
+<text top="922" left="161" width="502" height="17" font="3">accompanying explanatory notes are an integral part of this interim financial report.</text>
+<text top="235" left="647" width="109" height="17" font="3">12 months ended</text>
+<text top="1145" left="488" width="8" height="18" font="2">8</text>
+</page>
+<page number="10" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-10_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="520" height="17" font="3">Part A: Explanatory Notes Pursuant To MFRS 134, Interim Financial Reporting</text>
+<text top="243" left="136" width="168" height="17" font="3">A1. Basis of Preparation</text>
+<text top="572" left="136" width="236" height="17" font="3">A2. Significant Accounting Policies</text>
+<text top="711" left="172" width="13" height="17" font="3">a)</text>
+<text top="770" left="200" width="30" height="17" font="3">Title</text>
+<text top="770" left="721" width="89" height="17" font="3">Effective date</text>
+<text top="789" left="200" width="104" height="17" font="3">MFRS 16 Leases</text>
+<text top="789" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="809" left="200" width="376" height="17" font="3">IC Interpretation 23 Uncertainty over Income Tax Treatments </text>
+<text top="809" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="829" left="200" width="490" height="17" font="3">Amendments to MFRS 128 Long‐term Interests in Associates and Joint Ventures</text>
+<text top="829" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="849" left="200" width="462" height="17" font="3">Amendments to MFRS 9 Prepayment Features with Negative Compensation</text>
+<text top="849" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="869" left="200" width="372" height="17" font="3">Annual Improvements to MFRS Standards 2015 ‐ 2017 Cycle</text>
+<text top="888" left="200" width="325" height="17" font="3">(i)    Amendments to MFRS 3 Business Combinations</text>
+<text top="888" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="908" left="200" width="310" height="17" font="3">(ii)   Amendments to MFRS 11 Joint Arrangements</text>
+<text top="908" left="720" width="92" height="17" font="3">1 January 2019</text>
+<text top="928" left="200" width="283" height="17" font="3">(iii)  Amendments to MFRS 112 Income Taxes</text>
+<text top="928" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="948" left="200" width="302" height="17" font="3">(iv)  Amendments to MFRS 123 Borrowing Costs</text>
+<text top="948" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="968" left="200" width="437" height="17" font="3">Amendments to MFRS 119 Plan Amendment, Curtailment or Settlement</text>
+<text top="968" left="721" width="92" height="17" font="3">1 January 2019</text>
+<text top="282" left="172" width="641" height="17" font="3">The interim financial report of Greatech Technology Berhad (“Greatech” or “the Company”) and its</text>
+<text top="301" left="172" width="641" height="17" font="3">subsidiaries (collectively known as “the Group”) are unaudited and have been prepared in accordance</text>
+<text top="321" left="172" width="638" height="17" font="3">with the requirements of Malaysian Financial Reporting Standards (“MFRSs”) 134 Interim Financial</text>
+<text top="340" left="172" width="641" height="17" font="3">Reporting and Rule 9.22 of ACE Market Listing Requirements of Bursa Malaysia Securities Berhad</text>
+<text top="360" left="172" width="167" height="17" font="3">(“Listing Requirements”).</text>
+<text top="397" left="172" width="641" height="17" font="3">This is the fourth interim financial report on the Company’s unaudited condensed consolidated financial</text>
+<text top="416" left="172" width="640" height="17" font="3">results for the fourth (4th) quarter ended 31 December 2019 announced by the Company in compliance</text>
+<text top="435" left="172" width="640" height="17" font="3">with the Listing Requirements and as such, there are no comparative figures for the preceding year’s</text>
+<text top="454" left="172" width="136" height="17" font="3">corresponding quarter.</text>
+<text top="492" left="172" width="640" height="17" font="3">This interim financial report should be read in conjunction with the Accountants’ Report as disclosed in</text>
+<text top="511" left="172" width="641" height="17" font="3">the Prospectus of the Company dated 13 May 2019 and the accompanying explanatory notes are an</text>
+<text top="531" left="172" width="262" height="17" font="3">integral part of this interim financial report.</text>
+<text top="611" left="172" width="641" height="17" font="3">The significant accounting policies and methods of computation adopted by the Group in this interim</text>
+<text top="631" left="172" width="640" height="17" font="3">financial report are consistent with those adopted as disclosed in the Accountants’ Report in the</text>
+<text top="650" left="172" width="640" height="17" font="3">Prospectus of the Company dated 13 May 2019, except for the adoption of the following new and revised</text>
+<text top="669" left="172" width="338" height="17" font="3">MFRSs, Amendments to MFRSs and IC interpretations.</text>
+<text top="710" left="200" width="613" height="17" font="3">New and revised MFRSs, Amendments to MFRSs and IC interpretations adopted during the</text>
+<text top="729" left="200" width="89" height="17" font="3">financial year</text>
+<text top="1007" left="200" width="612" height="17" font="3">The adoption of the above accounting standards and interpretations is expected to have no impact on</text>
+<text top="1026" left="200" width="510" height="17" font="3">the financial statements of the Group upon their initial application except as follows:</text>
+<text top="1145" left="488" width="8" height="18" font="2">9</text>
+</page>
+<page number="11" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-11_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="599" left="200" width="134" height="17" font="3">Details are as follows:</text>
+<text top="619" left="636" width="57" height="17" font="3">Effect of </text>
+<text top="639" left="545" width="35" height="17" font="3">As at </text>
+<text top="637" left="636" width="58" height="18" font="2">adoption</text>
+<text top="639" left="748" width="35" height="17" font="3">As at </text>
+<text top="657" left="525" width="75" height="18" font="2">31/12/2018</text>
+<text top="657" left="624" width="83" height="18" font="2">of MFRS 16</text>
+<text top="657" left="736" width="59" height="18" font="2">1/1/2019</text>
+<text top="677" left="535" width="56" height="18" font="2">RM’000</text>
+<text top="677" left="637" width="56" height="18" font="2">RM’000</text>
+<text top="677" left="738" width="56" height="18" font="2">RM’000</text>
+<text top="698" left="200" width="182" height="17" font="3">Property, plant and equipment</text>
+<text top="698" left="564" width="42" height="17" font="3">35,543</text>
+<text top="698" left="519" width="49" height="17" font="3">             </text>
+<text top="698" left="660" width="52" height="17" font="3">(12,506)</text>
+<text top="698" left="621" width="42" height="17" font="3">           </text>
+<text top="698" left="766" width="42" height="17" font="3">23,037</text>
+<text top="698" left="723" width="45" height="17" font="3">            </text>
+<text top="718" left="200" width="115" height="17" font="3">Right-of-use assets</text>
+<text top="718" left="601" width="5" height="17" font="3">-</text>
+<text top="718" left="519" width="83" height="17" font="3">                      </text>
+<text top="718" left="665" width="42" height="17" font="3">17,017</text>
+<text top="718" left="621" width="45" height="17" font="3">            </text>
+<text top="718" left="766" width="42" height="17" font="3">17,017</text>
+<text top="718" left="723" width="45" height="17" font="3">            </text>
+<text top="738" left="200" width="71" height="17" font="3">Borrowings</text>
+<text top="738" left="572" width="34" height="17" font="3">8,143</text>
+<text top="738" left="519" width="57" height="17" font="3">               </text>
+<text top="738" left="668" width="44" height="17" font="3">(3,047)</text>
+<text top="738" left="621" width="49" height="17" font="3">             </text>
+<text top="738" left="774" width="34" height="17" font="3">5,096</text>
+<text top="738" left="723" width="53" height="17" font="3">              </text>
+<text top="758" left="200" width="94" height="17" font="3">Lease liabilities</text>
+<text top="758" left="601" width="5" height="17" font="3">-</text>
+<text top="758" left="519" width="83" height="17" font="3">                      </text>
+<text top="758" left="673" width="34" height="17" font="3">7,558</text>
+<text top="758" left="621" width="53" height="17" font="3">              </text>
+<text top="758" left="774" width="34" height="17" font="3">7,558</text>
+<text top="758" left="723" width="53" height="17" font="3">              </text>
+<text top="777" left="200" width="108" height="17" font="3">Retained earnings</text>
+<text top="777" left="564" width="42" height="17" font="3">65,261</text>
+<text top="777" left="519" width="49" height="17" font="3">             </text>
+<text top="777" left="702" width="5" height="17" font="3">-</text>
+<text top="777" left="621" width="83" height="17" font="3">                      </text>
+<text top="777" left="766" width="42" height="17" font="3">65,261</text>
+<text top="777" left="723" width="45" height="17" font="3">            </text>
+<text top="817" left="172" width="13" height="17" font="3">b)</text>
+<text top="936" left="200" width="30" height="17" font="3">Title</text>
+<text top="936" left="721" width="89" height="17" font="3">Effective date</text>
+<text top="956" left="200" width="470" height="17" font="3">Amendments to References to the Conceptual Framework in MFRS Standards</text>
+<text top="956" left="721" width="92" height="17" font="3">1 January 2020</text>
+<text top="975" left="200" width="299" height="17" font="3">Amendments to MFRS 3 Definition of a Business</text>
+<text top="975" left="721" width="92" height="17" font="3">1 January 2020</text>
+<text top="995" left="200" width="399" height="17" font="3">Amendments to MFRS 101 and MFRS 108 Definition of Material</text>
+<text top="995" left="721" width="92" height="17" font="3">1 January 2020</text>
+<text top="1015" left="200" width="613" height="17" font="3">Amendments to MFRS 9, MFRS 139 and MFRS 7 Interest Rate Benchmark Reform 1 January 2020</text>
+<text top="1035" left="200" width="187" height="17" font="3">MFRS 17 Insurance Contracts</text>
+<text top="1035" left="721" width="92" height="17" font="3">1 January 2021</text>
+<text top="1055" left="200" width="493" height="17" font="3">Amendments to MFRS 10 and MFRS 128 Sale or Contribution of Assets between</text>
+<text top="1055" left="759" width="54" height="17" font="3">Deferred</text>
+<text top="1074" left="200" width="288" height="17" font="3">   an Investor and its Associate or Joint Venture</text>
+<text top="876" left="200" width="613" height="17" font="3">The following are standards of the MFRS Framework that have been issued by the Malaysian</text>
+<text top="895" left="200" width="456" height="17" font="3">Accounting Standards Board but have not been early adopted by the Group:</text>
+<text top="203" left="200" width="612" height="17" font="3">The Group has adopted MFRS 16 which is effective for the financial year ended 31 December 2019.</text>
+<text top="223" left="200" width="613" height="17" font="3">In relation to this, the Group applied MFRS 16 using the modified retrospective approach, for which</text>
+<text top="242" left="200" width="613" height="17" font="3">the cumulative effect of initial adoption is recognised in retained earnings as at 1 January 2019.</text>
+<text top="261" left="200" width="405" height="17" font="3">Accordingly, the comparative information presented is not restated.</text>
+<text top="302" left="200" width="613" height="17" font="3">On adoption of MFRS 16, the Group recognised lease liabilities in relation to leases which had</text>
+<text top="322" left="200" width="612" height="17" font="3">previously been classified as “operating leases” under the principles of MFRS 117. These liabilities</text>
+<text top="341" left="200" width="613" height="17" font="3">were measured at the present value of the remaining lease payments, discounted using the</text>
+<text top="360" left="200" width="375" height="17" font="3">incremental borrowing rate of the Group as at 1 January 2019.</text>
+<text top="401" left="200" width="613" height="17" font="3">The associated right-of-use assets for property leases were measured on a retrospective basis as if the</text>
+<text top="421" left="200" width="613" height="17" font="3">new rules had always been applied. Other right-of-use assets were measured at the amount equal to</text>
+<text top="440" left="200" width="613" height="17" font="3">the lease liability, adjusted by the amount of any prepaid or accrued lease payments relating to that</text>
+<text top="459" left="200" width="413" height="17" font="3">lease recognised in the financial statements as at 31 December 2018.</text>
+<text top="500" left="200" width="612" height="17" font="3">For leases previously classified as finance leases, the Group recognised the carrying amounts of the</text>
+<text top="520" left="200" width="613" height="17" font="3">lease assets and lease liabilities immediately before transition as the carrying amounts of the right-of-</text>
+<text top="539" left="200" width="612" height="17" font="3">use assets and the lease liabilities respectively at the date of initial application. The measurement</text>
+<text top="558" left="200" width="329" height="17" font="3">principles of MFRS 16 are only applied after that date.</text>
+<text top="817" left="200" width="613" height="17" font="3">New and revised MFRSs, Amendments to MFRSs and IC interpretations, but only effective</text>
+<text top="837" left="200" width="363" height="17" font="3">for annual periods beginning on or after 1 January 2020</text>
+<text top="1145" left="484" width="17" height="18" font="2">10</text>
+</page>
+<page number="12" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-12_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="122" height="17" font="3">A3. Audit Report</text>
+<text top="303" left="136" width="218" height="17" font="3">A4. Seasonal or Cyclical Factors</text>
+<text top="402" left="136" width="190" height="17" font="3">A5. Material Unusual Items</text>
+<text top="501" left="136" width="234" height="17" font="3">A6. Material Changes in Estimates</text>
+<text top="600" left="136" width="210" height="17" font="3">A7. Debt and Equity Securities</text>
+<text top="790" left="136" width="128" height="17" font="3">A8. Dividend Paid</text>
+<text top="869" left="136" width="172" height="17" font="3">A9. Segmental Reporting</text>
+<text top="243" left="172" width="641" height="17" font="3">There was no qualification on the audited financial statements of the Group for the financial year ended</text>
+<text top="262" left="172" width="118" height="17" font="3">31 December 2018.</text>
+<text top="342" left="172" width="640" height="17" font="3">The Group did not experience any material seasonality or cyclicality in the business as the demand for the</text>
+<text top="361" left="172" width="530" height="17" font="3">products and services are neither subject to seasonal fluctuations nor cyclical variations.</text>
+<text top="441" left="172" width="640" height="17" font="3">There were no unusual items affecting assets, liabilities, equity, net income, or cash flows during the</text>
+<text top="460" left="172" width="343" height="17" font="3">current financial quarter and financial year under review.</text>
+<text top="908" left="172" width="640" height="17" font="3">Information about operating segments has not been reported separately as the Group’s revenue, profit or</text>
+<text top="927" left="172" width="640" height="17" font="3">loss, assets and liabilities are mainly confined to a single operating segment, namely the sale of automated</text>
+<text top="946" left="172" width="338" height="17" font="3">equipment together with provision of parts and services.</text>
+<text top="987" left="172" width="641" height="17" font="3">No provision of parts and services segment information is presented as the Chief Executive Officer</text>
+<text top="1006" left="172" width="348" height="17" font="3">(“CEO”) views the Group as a single reportable segment.</text>
+<text top="540" left="172" width="640" height="17" font="3">There were no changes in estimates that have a material effect in the current financial quarter and</text>
+<text top="559" left="172" width="168" height="17" font="3">financial year under review.</text>
+<text top="828" left="172" width="467" height="17" font="3">There was no dividend paid during the current financial quarter under review.</text>
+<text top="636" left="172" width="641" height="17" font="3">Save as disclosed below, there were no issuance, cancellation, repurchase, resale and repayment of debt</text>
+<text top="655" left="172" width="514" height="17" font="3">and equity securities for the current financial quarter and financial year under review.</text>
+<text top="694" left="172" width="640" height="17" font="3">On 12 June 2019, the Company issued a total of 119,750,000 new ordinary shares at an issue price of</text>
+<text top="713" left="172" width="641" height="17" font="3">RM0.61 per share in conjunction with its Initial Public Offering (“IPO”). Thereafter, the Company’s</text>
+<text top="732" left="172" width="640" height="17" font="3">enlarged share capital of 626,000,000 shares were listed on the ACE Market of Bursa Malaysia Securities</text>
+<text top="752" left="172" width="151" height="17" font="3">Berhad on 13 June 2019.</text>
+<text top="1145" left="484" width="17" height="18" font="2">11</text>
+</page>
+<page number="13" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-13_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="483" height="17" font="3">A10. Valuations of Property, Plant and Equipment and Right-of-use assets</text>
+<text top="404" left="413" width="83" height="17" font="3">Carry amount</text>
+<text top="404" left="523" width="80" height="17" font="3">Market value</text>
+<text top="404" left="650" width="29" height="17" font="3">Gain</text>
+<text top="404" left="751" width="28" height="17" font="3">Loss</text>
+<text top="423" left="429" width="51" height="17" font="3">RM’000</text>
+<text top="423" left="537" width="51" height="17" font="3">RM’000</text>
+<text top="423" left="638" width="51" height="17" font="3">RM’000</text>
+<text top="423" left="739" width="51" height="17" font="3">RM’000</text>
+<text top="444" left="172" width="200" height="17" font="3">Property, plant and equipment</text>
+<text top="463" left="172" width="121" height="17" font="3">Leasehold buildings</text>
+<text top="463" left="462" width="42" height="17" font="3">22,234</text>
+<text top="463" left="405" width="60" height="17" font="3">                </text>
+<text top="463" left="564" width="42" height="17" font="3">21,820</text>
+<text top="463" left="519" width="49" height="17" font="3">             </text>
+<text top="463" left="684" width="23" height="17" font="3">523</text>
+<text top="463" left="621" width="64" height="17" font="3">                 </text>
+<text top="463" left="780" width="33" height="17" font="3">(937)</text>
+<text top="463" left="723" width="60" height="17" font="3">                </text>
+<text top="496" left="172" width="121" height="17" font="3">Right-of-use assets</text>
+<text top="516" left="172" width="97" height="17" font="3">Leasehold lands</text>
+<text top="516" left="462" width="42" height="17" font="3">23,477</text>
+<text top="516" left="405" width="60" height="17" font="3">                </text>
+<text top="516" left="564" width="42" height="17" font="3">25,546</text>
+<text top="516" left="519" width="49" height="17" font="3">             </text>
+<text top="516" left="673" width="34" height="17" font="3">2,069</text>
+<text top="516" left="621" width="53" height="17" font="3">              </text>
+<text top="516" left="803" width="5" height="17" font="3">-</text>
+<text top="516" left="723" width="83" height="17" font="3">                      </text>
+<text top="535" left="172" width="32" height="17" font="3">Total</text>
+<text top="535" left="462" width="42" height="17" font="3">45,711</text>
+<text top="535" left="405" width="60" height="17" font="3">                </text>
+<text top="535" left="564" width="42" height="17" font="3">47,366</text>
+<text top="535" left="519" width="49" height="17" font="3">             </text>
+<text top="535" left="673" width="34" height="17" font="3">2,592</text>
+<text top="535" left="621" width="53" height="17" font="3">              </text>
+<text top="535" left="780" width="33" height="17" font="3">(937)</text>
+<text top="535" left="723" width="60" height="17" font="3">                </text>
+<text top="572" left="172" width="176" height="17" font="3">Effect on net assets per share</text>
+<text top="697" left="532" width="63" height="17" font="3">Unaudited</text>
+<text top="697" left="638" width="53" height="17" font="3">Effect of</text>
+<text top="717" left="544" width="39" height="17" font="3">before</text>
+<text top="717" left="618" width="93" height="17" font="3">revaluation, net</text>
+<text top="717" left="750" width="32" height="17" font="3">After</text>
+<text top="737" left="529" width="67" height="17" font="3">revaluation</text>
+<text top="737" left="620" width="89" height="17" font="3">of deferred tax</text>
+<text top="737" left="732" width="67" height="17" font="3">revaluation</text>
+<text top="756" left="172" width="255" height="17" font="3">Equity attributable to owners of the parent</text>
+<text top="756" left="556" width="49" height="17" font="3">194,557</text>
+<text top="756" left="519" width="42" height="17" font="3">           </text>
+<text top="756" left="673" width="34" height="17" font="3">1,033</text>
+<text top="756" left="621" width="53" height="17" font="3">              </text>
+<text top="756" left="758" width="49" height="17" font="3">195,590</text>
+<text top="756" left="723" width="38" height="17" font="3">          </text>
+<text top="776" left="172" width="253" height="17" font="3">Number of ordinary shares in issue (’000)</text>
+<text top="776" left="556" width="49" height="17" font="3">626,000</text>
+<text top="776" left="519" width="42" height="17" font="3">           </text>
+<text top="776" left="658" width="49" height="17" font="3">626,000</text>
+<text top="776" left="621" width="38" height="17" font="3">          </text>
+<text top="776" left="759" width="49" height="17" font="3">626,000</text>
+<text top="776" left="723" width="38" height="17" font="3">          </text>
+<text top="796" left="172" width="157" height="17" font="3">Net assets per share (RM)</text>
+<text top="796" left="564" width="42" height="17" font="3">0.3108</text>
+<text top="796" left="519" width="49" height="17" font="3">             </text>
+<text top="796" left="666" width="42" height="17" font="3">0.0016</text>
+<text top="796" left="621" width="45" height="17" font="3">            </text>
+<text top="796" left="766" width="42" height="17" font="3">0.3124</text>
+<text top="796" left="723" width="45" height="17" font="3">            </text>
+<text top="833" left="136" width="490" height="17" font="3">A11. Material Events Subsequent to the end of the Interim Financial Period</text>
+<text top="926" left="136" width="252" height="17" font="3">A12. Changes in Group’s Composition</text>
+<text top="1020" left="136" width="325" height="17" font="3">A13. Contingent Assets and Contingent Liabilities</text>
+<text top="1056" left="172" width="640" height="17" font="3">There were no material contingent assets or contingent liabilities to be disclosed as at the date of this</text>
+<text top="1075" left="172" width="143" height="17" font="3">interim financial report.</text>
+<text top="962" left="172" width="640" height="17" font="3">There were no changes in the composition of the Group during the current financial quarter and financial</text>
+<text top="982" left="172" width="112" height="17" font="3">year under review.</text>
+<text top="605" left="172" width="641" height="17" font="3">The net revaluation surplus, net of deferred tax of RM1.03 million would result in the Group’s</text>
+<text top="624" left="172" width="640" height="17" font="3">consolidated net assets per share to increase by approximately 0.16 sen. The Company has recorded net</text>
+<text top="644" left="172" width="640" height="17" font="3">assets per share of 31.24 sen based on the unaudited financial results of the Group for the fourth quarter</text>
+<text top="663" left="172" width="158" height="17" font="3">ended 31 December 2019.</text>
+<text top="246" left="172" width="640" height="17" font="3">The Group has carried out a valuation exercise on its leasehold buildings and leasehold lands classified</text>
+<text top="265" left="172" width="640" height="17" font="3">under Property, Plant and Equipment (“PPE”) and Right-Of-Use (“ROU”) assets respectively, during the</text>
+<text top="284" left="172" width="640" height="17" font="3">financial quarter ended 31 December 2019. The revaluation is performed by an independent professional</text>
+<text top="304" left="172" width="640" height="17" font="3">valuer using the open market value basis. The revaluation was carried out to ascertain the current market</text>
+<text top="323" left="172" width="354" height="17" font="3">value of the PPE and ROU assets for accounting purposes.</text>
+<text top="366" left="172" width="309" height="17" font="3">Gain/(Loss) on revaluation of PPE and ROU assets</text>
+<text top="869" left="172" width="640" height="17" font="3">There were no material events subsequent to the end of the current financial quarter and financial year</text>
+<text top="888" left="172" width="436" height="17" font="3">under review that have not been reflected in this interim financial report.</text>
+<text top="1145" left="484" width="17" height="18" font="2">12</text>
+</page>
+<page number="14" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-14_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="183" height="17" font="3">A14. Capital Commitments </text>
+<text top="303" left="638" width="53" height="17" font="3">RM’000</text>
+<text top="322" left="172" width="182" height="17" font="3">- Approved and contracted for</text>
+<text top="322" left="616" width="94" height="17" font="3">               3,239 </text>
+<text top="421" left="136" width="287" height="17" font="3">A15. Significant Related Party Transactions</text>
+<text top="520" left="136" width="254" height="17" font="3">A16. Fair Value of Financial Liabilities</text>
+<text top="639" left="136" width="167" height="17" font="3">              Securities Berhad</text>
+<text top="679" left="136" width="234" height="17" font="3">B1. Review of Group Performance</text>
+<text top="718" left="172" width="442" height="17" font="3">Comparison with the corresponding period in the previous financial year</text>
+<text top="243" left="172" width="641" height="17" font="3">Save as disclosed below, as at 31 December 2019, the Group does not have any material capital</text>
+<text top="262" left="172" width="85" height="17" font="3">commitments:</text>
+<text top="619" left="136" width="668" height="17" font="3">Part B - Additional Information Required by the ACE Market Listing Requirements of Bursa Malaysia</text>
+<text top="361" left="172" width="640" height="17" font="3">Capital commitments of the Group relate to the construction of new operational facility, computer systems</text>
+<text top="381" left="172" width="151" height="17" font="3">and plant and machinery.</text>
+<text top="559" left="172" width="640" height="17" font="3">There were no gains or losses arising from fair value changes of the Group’s financial liabilities for the</text>
+<text top="579" left="172" width="343" height="17" font="3">current financial quarter and financial year under review.</text>
+<text top="736" left="172" width="641" height="17" font="3">The Group recorded revenue and profit before taxation (“PBT”) of RM58.52 million and RM20.97</text>
+<text top="755" left="172" width="640" height="17" font="3">million respectively during the current financial quarter under review. No comparative figures for the</text>
+<text top="774" left="172" width="640" height="17" font="3">preceding year corresponding quarter are presented as this is the fourth interim financial report on the</text>
+<text top="793" left="172" width="568" height="17" font="3">consolidated results announced by the Company in compliance with the Listing Requirements.</text>
+<text top="832" left="172" width="641" height="17" font="3">The Group achieved a total revenue of RM215.94 million and PBT of RM57.57 million for current</text>
+<text top="851" left="172" width="640" height="17" font="3">financial year ended 31 December 2019. The PBT margin for the current financial year has increased to</text>
+<text top="870" left="172" width="640" height="17" font="3">26.66% as compared to 14.51% in preceding financial year mainly due to consistent process</text>
+<text top="890" left="172" width="640" height="17" font="3">improvement, lesser development costs and other cost reduction initiatives. In FY2018, the customer</text>
+<text top="909" left="172" width="640" height="17" font="3">continued its expansion plan and there were multi factories completed by the customer for the production</text>
+<text top="928" left="172" width="640" height="17" font="3">line systems to be installed. In order to comply with the agreed major milestones of the customer’s</text>
+<text top="947" left="172" width="640" height="17" font="3">planned schedule, the Group has incurred higher cost to complete, deliver and install the production line</text>
+<text top="967" left="172" width="51" height="17" font="3">systems.</text>
+<text top="460" left="172" width="640" height="17" font="3">There were no significant related party transactions during the current financial quarter and financial year</text>
+<text top="480" left="172" width="82" height="17" font="3">under review.</text>
+<text top="1145" left="484" width="17" height="18" font="2">13</text>
+</page>
+<page number="15" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-15_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="398" height="17" font="3">B2. Comparison with immediate preceding quarter’s results</text>
+<text top="476" left="136" width="207" height="17" font="3">B3. Commentary on prospects</text>
+<text top="992" left="136" width="133" height="17" font="3">B4. Profit Forecast</text>
+<text top="252" left="172" width="640" height="17" font="3">The Group’s revenue for the current financial quarter ended 31 December 2019 increased by RM10.83</text>
+<text top="271" left="172" width="640" height="17" font="3">million or 22.71% to RM58.52 million as compared to RM47.69 million in the preceding financial quarter</text>
+<text top="291" left="172" width="640" height="17" font="3">ended 30 September 2019. The increase was mainly due to majority of the production line systems were</text>
+<text top="310" left="172" width="640" height="17" font="3">assembled and delivered. The final acceptance of these production line systems and receipt of payment is</text>
+<text top="329" left="172" width="219" height="17" font="3">expected at the first quarter of 2020.</text>
+<text top="368" left="172" width="640" height="17" font="3">PBT of the Group for the current financial quarter was RM20.97 million, compared to preceding financial</text>
+<text top="387" left="172" width="640" height="17" font="3">quarter of RM13.05 million. The RM7.92 million increase in PBT was mainly due to the increase in</text>
+<text top="406" left="172" width="641" height="17" font="3">revenue and improvement in the Group’s operating efficiency as indicated by the increase in gross profit</text>
+<text top="425" left="172" width="563" height="17" font="3">margin from 34.58% in the preceding financial quarter to 39.83% in current financial quarter.</text>
+<text top="520" left="172" width="640" height="17" font="3">The order book for the Group stood at RM215 million as at 31 January 2020. With that, the Group</text>
+<text top="540" left="172" width="640" height="17" font="3">continues to increase and focus on processing these orders that will eventually be contributing to the</text>
+<text top="559" left="172" width="167" height="17" font="3">revenue in fiscal year 2020.</text>
+<text top="597" left="172" width="641" height="17" font="3">Despite anticipated slow growth in global economy predominated by risk of re-escalation of trade</text>
+<text top="617" left="172" width="640" height="17" font="3">tensions, geopolitical uncertainties and financial turmoil in emerging market and developing economies,</text>
+<text top="636" left="172" width="427" height="17" font="3">the Group is of the view that the industry it serves remains favourable. </text>
+<text top="675" left="172" width="640" height="17" font="3">The Group continues to focus to engage customer on production line solutions which improve our</text>
+<text top="694" left="172" width="640" height="17" font="3">Group’s workload predictability which in turn results in better project planning and are less vulnerable to</text>
+<text top="713" left="172" width="640" height="17" font="3">macroeconomic factors. The Group also constantly develops new product portfolio and expands its</text>
+<text top="732" left="172" width="294" height="17" font="3">business in other sectors apart from solar sector. </text>
+<text top="771" left="172" width="640" height="17" font="3">In fiscal year 2020, the Group expects to incur capital expenditure due to planned expansions at Batu</text>
+<text top="790" left="172" width="640" height="17" font="3">Kawan and Lunas facilities in order to increase capacity and to leverage on existing cost structure. The</text>
+<text top="809" left="172" width="640" height="17" font="3">actual investment will depend on timing of the expansion. The Group foresees that continued cash flow</text>
+<text top="829" left="172" width="640" height="17" font="3">generated from operation, and cash and cash equivalents in hand together with credit facilities available</text>
+<text top="848" left="172" width="420" height="17" font="3">will be sufficient to fund its investment requirements in capital assets.</text>
+<text top="886" left="172" width="641" height="17" font="3">The Group is not swerved by the recent COVID-19 pandemic as the Group’s purchases are mainly from</text>
+<text top="906" left="172" width="640" height="17" font="3">the US and European countries. The Group has sufficient materials to fulfil orders received to-date. China</text>
+<text top="925" left="172" width="641" height="17" font="3">customers accounted for less than 1% of the Group’s revenue in 2019. We do not foresee any material</text>
+<text top="944" left="172" width="324" height="17" font="3">adverse impact on the Group’s financial performance.</text>
+<text top="1030" left="172" width="625" height="17" font="3">The Group did not issue any profit forecast during the financial quarter and financial year under review.</text>
+<text top="1145" left="484" width="17" height="18" font="2">14</text>
+</page>
+<page number="16" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-16_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="231" height="17" font="3">B5. Status of Corporate Proposals</text>
+<text top="283" left="136" width="119" height="17" font="3">B6. Tax Expense</text>
+<text top="362" left="420" width="69" height="17" font="3">31/12/2019</text>
+<text top="364" left="521" width="72" height="17" font="3">31/12/2018 </text>
+<text top="361" left="593" width="12" height="11" font="4">(1)</text>
+<text top="362" left="631" width="69" height="17" font="3">31/12/2019</text>
+<text top="362" left="732" width="69" height="17" font="3">31/12/2018</text>
+<text top="382" left="428" width="53" height="17" font="3">RM’000</text>
+<text top="382" left="536" width="53" height="17" font="3">RM’000</text>
+<text top="382" left="638" width="53" height="17" font="3">RM’000</text>
+<text top="382" left="739" width="53" height="17" font="3">RM’000</text>
+<text top="401" left="172" width="132" height="17" font="3">Malaysian income tax</text>
+<text top="421" left="172" width="77" height="17" font="3">- Current tax</text>
+<text top="421" left="481" width="23" height="17" font="3">196</text>
+<text top="421" left="405" width="79" height="17" font="3">                     </text>
+<text top="421" left="579" width="26" height="17" font="3">N/A</text>
+<text top="421" left="679" width="33" height="17" font="3">(130)</text>
+<text top="421" left="621" width="60" height="17" font="3">                </text>
+<text top="421" left="780" width="33" height="17" font="3">(142)</text>
+<text top="421" left="723" width="60" height="17" font="3">                </text>
+<text top="441" left="172" width="144" height="17" font="3">- Deferred tax liabilities</text>
+<text top="441" left="464" width="44" height="17" font="3">(2,517)</text>
+<text top="441" left="405" width="60" height="17" font="3">                </text>
+<text top="441" left="579" width="26" height="17" font="3">N/A</text>
+<text top="441" left="668" width="44" height="17" font="3">(2,517)</text>
+<text top="441" left="621" width="49" height="17" font="3">             </text>
+<text top="441" left="803" width="5" height="17" font="3">-</text>
+<text top="441" left="723" width="83" height="17" font="3">                      </text>
+<text top="461" left="172" width="145" height="17" font="3">Foreign withholding tax</text>
+<text top="461" left="464" width="44" height="17" font="3">(2,629)</text>
+<text top="461" left="405" width="60" height="17" font="3">                </text>
+<text top="461" left="579" width="26" height="17" font="3">N/A</text>
+<text top="461" left="668" width="44" height="17" font="3">(2,629)</text>
+<text top="461" left="621" width="49" height="17" font="3">             </text>
+<text top="461" left="803" width="5" height="17" font="3">-</text>
+<text top="461" left="723" width="83" height="17" font="3">                      </text>
+<text top="480" left="464" width="44" height="17" font="3">(4,950)</text>
+<text top="480" left="405" width="60" height="17" font="3">                </text>
+<text top="480" left="579" width="26" height="17" font="3">N/A</text>
+<text top="480" left="668" width="44" height="17" font="3">(5,276)</text>
+<text top="480" left="621" width="49" height="17" font="3">             </text>
+<text top="480" left="780" width="33" height="17" font="3">(142)</text>
+<text top="480" left="723" width="60" height="17" font="3">                </text>
+<text top="517" left="172" width="110" height="17" font="3">Effective tax rates</text>
+<text top="517" left="462" width="47" height="17" font="3">23.60%</text>
+<text top="517" left="579" width="26" height="17" font="3">N/A</text>
+<text top="517" left="673" width="39" height="17" font="3">9.16%</text>
+<text top="517" left="773" width="39" height="17" font="3">0.45%</text>
+<text top="554" left="177" width="18" height="17" font="3">(1)</text>
+<text top="613" left="171" width="121" height="17" font="3">N/A Not applicable.</text>
+<text top="242" left="172" width="488" height="17" font="3">There were no corporate proposals for the current financial quarter under review.</text>
+<text top="302" left="572" width="68" height="17" font="3">Unaudited</text>
+<text top="322" left="443" width="124" height="17" font="3">Individual Quarter</text>
+<text top="322" left="648" width="132" height="17" font="3">Cumulative Quarter</text>
+<text top="554" left="200" width="613" height="17" font="3">No comparative figures for the preceding year corresponding quarter are presented as this is the</text>
+<text top="573" left="200" width="612" height="17" font="3">fourth interim financial report on consolidated results announced by the Company in compliance with</text>
+<text top="592" left="200" width="155" height="17" font="3">the Listing Requirements.</text>
+<text top="342" left="660" width="109" height="17" font="3">12 months ended</text>
+<text top="650" left="172" width="641" height="17" font="3">The effective tax rate for the financial year of the Company was lower than the statutory tax rate as the</text>
+<text top="669" left="172" width="640" height="17" font="3">subsidiary, Greatech Integration (M) Sdn Bhd, was granted pioneer status by Ministry of International</text>
+<text top="689" left="172" width="640" height="17" font="3">Trade and Industry of Malaysia under the Promotion of Investments Act, 1986 on 29 March 2013, for a</text>
+<text top="708" left="172" width="640" height="17" font="3">period of five (5) years up to 28 March 2018, which was subsequently extended for another five (5) years</text>
+<text top="727" left="172" width="640" height="17" font="3">to 28 March 2023. As such, the Company’s statutory income during this period is exempted from income</text>
+<text top="747" left="172" width="22" height="17" font="3">tax.</text>
+<text top="785" left="172" width="640" height="17" font="3">Foreign withholding tax is related to withholding tax liability from sales of production line systems and</text>
+<text top="804" left="172" width="640" height="17" font="3">provision of engineering services to a customer in certain jurisdiction. It is originally accrued as part of</text>
+<text top="824" left="172" width="641" height="17" font="3">the provisional charge. Due to complexity of the tax law, significant judgement is required in evaluating</text>
+<text top="843" left="172" width="640" height="17" font="3">the tax positions, including uncertainties. The Group submitted the applications to reclaim the taxation</text>
+<text top="862" left="172" width="640" height="17" font="3">withhold by the foreign tax authorities over the period. However, there is no assurance of refundability.</text>
+<text top="881" left="172" width="484" height="17" font="3">Thus, the Group has decided to expense the withholding tax to the profit or loss.</text>
+<text top="342" left="455" width="102" height="17" font="3">3 months ended</text>
+<text top="1145" left="484" width="17" height="18" font="2">15</text>
+</page>
+<page number="17" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-17_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="227" height="17" font="3">B7. Use of proceeds from the IPO</text>
+<text top="303" left="406" width="98" height="17" font="3">Estimated time</text>
+<text top="322" left="424" width="62" height="17" font="3">frame for</text>
+<text top="322" left="533" width="60" height="17" font="3">Proposed</text>
+<text top="322" left="643" width="43" height="17" font="3">Actual</text>
+<text top="322" left="730" width="71" height="17" font="3">Percentage</text>
+<text top="342" left="422" width="64" height="17" font="3">utilisation</text>
+<text top="342" left="531" width="64" height="17" font="3">utilisation</text>
+<text top="342" left="632" width="64" height="17" font="3">utilisation</text>
+<text top="342" left="742" width="47" height="17" font="3">utilised</text>
+<text top="362" left="414" width="82" height="17" font="3">upon Listing</text>
+<text top="362" left="536" width="53" height="17" font="3">RM’000</text>
+<text top="362" left="638" width="53" height="17" font="3">RM’000</text>
+<text top="362" left="758" width="15" height="17" font="3">%</text>
+<text top="381" left="172" width="144" height="17" font="3">Business expansion and</text>
+<text top="381" left="400" width="112" height="17" font="3">Within 48 months </text>
+<text top="381" left="564" width="42" height="17" font="3">18,000</text>
+<text top="381" left="519" width="49" height="17" font="3">             </text>
+<text top="381" left="684" width="23" height="17" font="3">848</text>
+<text top="381" left="621" width="64" height="17" font="3">                 </text>
+<text top="381" left="756" width="20" height="17" font="3">5%</text>
+<text top="401" left="172" width="182" height="17" font="3">   development, and marketing</text>
+<text top="421" left="172" width="65" height="17" font="3">   activities</text>
+<text top="441" left="172" width="118" height="17" font="3">Capital expenditure</text>
+<text top="441" left="400" width="112" height="17" font="3">Within 24 months </text>
+<text top="441" left="572" width="34" height="17" font="3">5,000</text>
+<text top="441" left="519" width="57" height="17" font="3">               </text>
+<text top="441" left="673" width="34" height="17" font="3">4,685</text>
+<text top="441" left="621" width="53" height="17" font="3">              </text>
+<text top="441" left="752" width="28" height="17" font="3">94%</text>
+<text top="461" left="172" width="108" height="17" font="3">R&amp;D expenditure</text>
+<text top="461" left="400" width="112" height="17" font="3">Within 24 months </text>
+<text top="461" left="572" width="34" height="17" font="3">5,000</text>
+<text top="461" left="519" width="57" height="17" font="3">               </text>
+<text top="461" left="684" width="23" height="17" font="3">380</text>
+<text top="461" left="621" width="64" height="17" font="3">                 </text>
+<text top="461" left="756" width="20" height="17" font="3">8%</text>
+<text top="480" left="172" width="97" height="17" font="3">Working capital</text>
+<text top="480" left="400" width="112" height="17" font="3">Within 30 months </text>
+<text top="480" left="564" width="42" height="17" font="3">36,548</text>
+<text top="480" left="519" width="49" height="17" font="3">             </text>
+<text top="480" left="666" width="42" height="17" font="3">14,791</text>
+<text top="480" left="621" width="45" height="17" font="3">            </text>
+<text top="480" left="752" width="28" height="17" font="3">40%</text>
+<text top="500" left="172" width="189" height="17" font="3">Repayment of bank borrowings</text>
+<text top="500" left="400" width="105" height="17" font="3">Within 3 months </text>
+<text top="500" left="571" width="34" height="17" font="3">4,500</text>
+<text top="500" left="519" width="57" height="17" font="3">               </text>
+<text top="500" left="673" width="34" height="17" font="3">4,500</text>
+<text top="500" left="621" width="53" height="17" font="3">              </text>
+<text top="500" left="748" width="35" height="17" font="3">100%</text>
+<text top="520" left="172" width="159" height="17" font="3">Estimated listing expenses</text>
+<text top="520" left="400" width="75" height="17" font="3">Immediately</text>
+<text top="520" left="571" width="34" height="17" font="3">4,000</text>
+<text top="520" left="519" width="57" height="17" font="3">               </text>
+<text top="520" left="673" width="34" height="17" font="3">4,000</text>
+<text top="520" left="621" width="53" height="17" font="3">              </text>
+<text top="520" left="748" width="35" height="17" font="3">100%</text>
+<text top="540" left="564" width="42" height="17" font="3">73,048</text>
+<text top="540" left="519" width="49" height="17" font="3">             </text>
+<text top="540" left="666" width="42" height="17" font="3">29,204</text>
+<text top="540" left="621" width="45" height="17" font="3">            </text>
+<text top="540" left="752" width="28" height="17" font="3">40%</text>
+<text top="640" left="136" width="245" height="17" font="3">B8. Borrowings and Debt Securities </text>
+<text top="680" left="172" width="322" height="17" font="3">The details of the Group’s borrowings are as follows:</text>
+<text top="739" left="631" width="69" height="17" font="3">31/12/2019</text>
+<text top="739" left="732" width="69" height="17" font="3">31/12/2018</text>
+<text top="759" left="638" width="53" height="17" font="3">RM’000</text>
+<text top="759" left="739" width="53" height="17" font="3">RM’000</text>
+<text top="779" left="172" width="57" height="17" font="3">Secured:</text>
+<text top="799" left="172" width="115" height="17" font="3">Current liabilities</text>
+<text top="818" left="172" width="141" height="17" font="3">Hire purchase creditors</text>
+<text top="818" left="687" width="5" height="17" font="3">-</text>
+<text top="818" left="621" width="68" height="17" font="3">                  </text>
+<text top="818" left="773" width="34" height="17" font="3">1,674</text>
+<text top="818" left="723" width="53" height="17" font="3">              </text>
+<text top="838" left="172" width="68" height="17" font="3">Term loans</text>
+<text top="838" left="673" width="34" height="17" font="3">1,001</text>
+<text top="838" left="621" width="53" height="17" font="3">              </text>
+<text top="838" left="785" width="23" height="17" font="3">768</text>
+<text top="838" left="723" width="64" height="17" font="3">                 </text>
+<text top="858" left="673" width="34" height="17" font="3">1,001</text>
+<text top="858" left="621" width="53" height="17" font="3">              </text>
+<text top="858" left="774" width="34" height="17" font="3">2,442</text>
+<text top="858" left="723" width="53" height="17" font="3">              </text>
+<text top="898" left="172" width="143" height="17" font="3">Non-current liabilities</text>
+<text top="917" left="172" width="141" height="17" font="3">Hire purchase creditors</text>
+<text top="917" left="687" width="5" height="17" font="3">-</text>
+<text top="917" left="621" width="68" height="17" font="3">                  </text>
+<text top="917" left="773" width="34" height="17" font="3">1,373</text>
+<text top="917" left="723" width="53" height="17" font="3">              </text>
+<text top="937" left="172" width="68" height="17" font="3">Term loans</text>
+<text top="937" left="666" width="42" height="17" font="3">18,128</text>
+<text top="937" left="621" width="45" height="17" font="3">            </text>
+<text top="937" left="774" width="34" height="17" font="3">4,328</text>
+<text top="937" left="723" width="53" height="17" font="3">              </text>
+<text top="957" left="666" width="42" height="17" font="3">18,128</text>
+<text top="957" left="621" width="45" height="17" font="3">            </text>
+<text top="957" left="774" width="34" height="17" font="3">5,701</text>
+<text top="957" left="723" width="53" height="17" font="3">              </text>
+<text top="997" left="172" width="97" height="17" font="3">Total liabilities</text>
+<text top="1016" left="172" width="141" height="17" font="3">Hire purchase creditors</text>
+<text top="1016" left="687" width="5" height="17" font="3">-</text>
+<text top="1016" left="621" width="68" height="17" font="3">                  </text>
+<text top="1016" left="773" width="34" height="17" font="3">3,047</text>
+<text top="1016" left="723" width="53" height="17" font="3">              </text>
+<text top="1036" left="172" width="68" height="17" font="3">Term loans</text>
+<text top="1036" left="666" width="42" height="17" font="3">19,129</text>
+<text top="1036" left="621" width="45" height="17" font="3">            </text>
+<text top="1036" left="774" width="34" height="17" font="3">5,096</text>
+<text top="1036" left="723" width="53" height="17" font="3">              </text>
+<text top="1056" left="666" width="42" height="17" font="3">19,129</text>
+<text top="1056" left="621" width="45" height="17" font="3">            </text>
+<text top="1056" left="774" width="34" height="17" font="3">8,143</text>
+<text top="1056" left="723" width="53" height="17" font="3">              </text>
+<text top="361" left="255" width="59" height="17" font="3">Purposes</text>
+<text top="243" left="172" width="640" height="17" font="3">The gross proceeds of RM73.05 million raised from the Public Issue and status of utilisation as at 31</text>
+<text top="262" left="172" width="322" height="17" font="3">December 2019 is disclosed in the following manner:</text>
+<text top="719" left="680" width="68" height="17" font="3">Unaudited</text>
+<text top="580" left="172" width="640" height="17" font="3">The use of proceeds as disclosed above should be read in conjunction with the Prospectus of the</text>
+<text top="599" left="172" width="182" height="17" font="3">Company dated 13 May 2019.</text>
+<text top="1145" left="484" width="17" height="18" font="2">16</text>
+</page>
+<page number="18" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-18_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="204" left="136" width="186" height="17" font="3">B9. Derivative Instruments</text>
+<text top="243" left="172" width="529" height="17" font="3">The details of outstanding derivative instruments as at 31 December 2019 are as follow:</text>
+<text top="282" left="616" width="97" height="17" font="3">Nominal Value</text>
+<text top="283" left="746" width="40" height="17" font="3">Assets</text>
+<text top="302" left="172" width="230" height="17" font="3">Foreign Exchange Forward Contracts:</text>
+<text top="303" left="638" width="53" height="17" font="3">RM’000</text>
+<text top="303" left="739" width="53" height="17" font="3">RM’000</text>
+<text top="322" left="172" width="114" height="17" font="3">  - Less than 1 year</text>
+<text top="322" left="684" width="23" height="17" font="3">368</text>
+<text top="322" left="621" width="64" height="17" font="3">                 </text>
+<text top="322" left="800" width="8" height="17" font="3">9</text>
+<text top="322" left="723" width="79" height="17" font="3">                     </text>
+<text top="461" left="136" width="163" height="17" font="3">B10. Material Litigation </text>
+<text top="540" left="136" width="159" height="17" font="3">B11. Proposed Dividend</text>
+<text top="639" left="136" width="219" height="17" font="3">B12. Earnings Per Share (“EPS”)</text>
+<text top="818" left="420" width="69" height="17" font="3">31/12/2019</text>
+<text top="818" left="521" width="72" height="17" font="3">31/12/2018 </text>
+<text top="815" left="593" width="12" height="11" font="4">(1)</text>
+<text top="818" left="631" width="69" height="17" font="3">31/12/2019</text>
+<text top="818" left="732" width="69" height="17" font="3">31/12/2018</text>
+<text top="837" left="172" width="223" height="17" font="3">Profit after tax attributable to owners</text>
+<text top="857" left="172" width="149" height="17" font="3">  of the parent (RM’000)</text>
+<text top="857" left="461" width="42" height="17" font="3">16,021</text>
+<text top="857" left="405" width="60" height="17" font="3">                </text>
+<text top="857" left="579" width="26" height="17" font="3">N/A</text>
+<text top="857" left="666" width="42" height="17" font="3">52,296</text>
+<text top="857" left="621" width="45" height="17" font="3">            </text>
+<text top="857" left="766" width="42" height="17" font="3">31,719</text>
+<text top="857" left="725" width="45" height="17" font="3">            </text>
+<text top="896" left="172" width="229" height="17" font="3">Weighted average number of ordinary</text>
+<text top="916" left="172" width="140" height="17" font="3">  shares in issue  (’000)</text>
+<text top="916" left="454" width="49" height="17" font="3">626,000</text>
+<text top="916" left="405" width="53" height="17" font="3">              </text>
+<text top="916" left="580" width="26" height="17" font="3">N/A</text>
+<text top="916" left="658" width="49" height="17" font="3">463,279</text>
+<text top="916" left="621" width="38" height="17" font="3">          </text>
+<text top="916" left="774" width="34" height="17" font="3">1,000</text>
+<text top="916" left="725" width="53" height="17" font="3">              </text>
+<text top="957" left="172" width="101" height="17" font="3">Basic EPS (sen) </text>
+<text top="954" left="273" width="12" height="11" font="4">(2)</text>
+<text top="956" left="477" width="26" height="17" font="3">2.56</text>
+<text top="956" left="405" width="75" height="17" font="3">                    </text>
+<text top="956" left="579" width="26" height="17" font="3">N/A</text>
+<text top="956" left="673" width="34" height="17" font="3">11.29</text>
+<text top="956" left="621" width="53" height="17" font="3">              </text>
+<text top="956" left="774" width="34" height="17" font="3">31.72</text>
+<text top="956" left="725" width="53" height="17" font="3">              </text>
+<text top="997" left="172" width="113" height="17" font="3">Diluted EPS (sen) </text>
+<text top="994" left="285" width="12" height="11" font="4">(3)</text>
+<text top="995" left="477" width="26" height="17" font="3">2.56</text>
+<text top="995" left="405" width="75" height="17" font="3">                    </text>
+<text top="995" left="579" width="26" height="17" font="3">N/A</text>
+<text top="995" left="673" width="34" height="17" font="3">11.29</text>
+<text top="995" left="621" width="53" height="17" font="3">              </text>
+<text top="995" left="774" width="34" height="17" font="3">31.72</text>
+<text top="995" left="725" width="53" height="17" font="3">              </text>
+<text top="1035" left="177" width="18" height="17" font="3">(1)</text>
+<text top="757" left="573" width="68" height="17" font="3">Unaudited</text>
+<text top="362" left="172" width="640" height="17" font="3">The Group’s derivative instruments as at the end of the current financial quarter comprise forward foreign</text>
+<text top="381" left="172" width="640" height="17" font="3">exchange contracts which are used to manage the foreign currency exposures arising from the Group’s</text>
+<text top="400" left="172" width="641" height="17" font="3">receivables denominated in USD. The fair value of the forward foreign exchange contracts is based on the</text>
+<text top="420" left="172" width="468" height="17" font="3">difference between the contracted forward rates and the mark-to-market rates.</text>
+<text top="777" left="444" width="124" height="17" font="3">Individual Quarter</text>
+<text top="678" left="172" width="640" height="17" font="3">The basic and diluted EPS are calculated based on the Group’s profit after tax attributable to owners of</text>
+<text top="698" left="172" width="641" height="17" font="3">the parent divided by the weighted average number of ordinary shares in issue during the financial</text>
+<text top="717" left="172" width="154" height="17" font="3">period/year under review.</text>
+<text top="797" left="455" width="102" height="17" font="3">3 months ended</text>
+<text top="500" left="172" width="602" height="17" font="3">As at the date of this interim financial report, there were no material litigations involving the Group.</text>
+<text top="797" left="660" width="109" height="17" font="3">12 months ended</text>
+<text top="777" left="648" width="132" height="17" font="3">Cumulative Quarter</text>
+<text top="579" left="172" width="640" height="17" font="3">The Board of Directors did not declare or recommend any dividend for the current financial quarter under</text>
+<text top="598" left="172" width="44" height="17" font="3">review.</text>
+<text top="1035" left="200" width="613" height="17" font="3">No comparative figures for the preceding year corresponding quarter are presented as this is the</text>
+<text top="1054" left="200" width="612" height="17" font="3">fourth interim financial report on consolidated results announced by the Company in compliance with</text>
+<text top="1073" left="200" width="155" height="17" font="3">the Listing Requirements.</text>
+<text top="1145" left="484" width="17" height="18" font="2">17</text>
+</page>
+<page number="19" position="absolute" top="0" left="0" height="1188" width="918">
+<image top="62" left="632" width="181" height="56" src="./test//xml/Q4 2019 Announcement.pdf-19_1.jpg"/>
+<text top="65" left="136" width="269" height="17" font="3">GREATECH TECHNOLOGY BERHAD</text>
+<text top="85" left="136" width="277" height="17" font="3">(Company No. 201801008633 (1270647-H))</text>
+<text top="104" left="136" width="352" height="17" font="3">(Incorporated in Malaysia under the Companies Act 2016)</text>
+<text top="124" left="136" width="577" height="17" font="3">Interim Financial Report For The Fourth Quarter And Financial Year Ended 31 December 2019</text>
+<text top="164" left="136" width="566" height="17" font="3">NOTES TO THE CONDENSED CONSOLIDATED INTERIM FINANCIAL REPORT</text>
+<text top="203" left="177" width="18" height="17" font="3">(2)</text>
+<text top="263" left="177" width="18" height="17" font="3">(3)</text>
+<text top="302" left="171" width="121" height="17" font="3">N/A Not applicable.</text>
+<text top="342" left="136" width="149" height="17" font="3">B13. Profit Before Tax</text>
+<text top="381" left="172" width="340" height="17" font="3">Included in profit for the financial period are as follows:</text>
+<text top="481" left="420" width="69" height="17" font="3">31/12/2019</text>
+<text top="481" left="521" width="72" height="17" font="3">31/12/2018 </text>
+<text top="478" left="593" width="12" height="11" font="4">(1)</text>
+<text top="481" left="631" width="69" height="17" font="3">31/12/2019</text>
+<text top="481" left="732" width="69" height="17" font="3">31/12/2018</text>
+<text top="501" left="428" width="53" height="17" font="3">RM’000</text>
+<text top="501" left="536" width="53" height="17" font="3">RM’000</text>
+<text top="501" left="638" width="53" height="17" font="3">RM’000</text>
+<text top="501" left="739" width="53" height="17" font="3">RM’000</text>
+<text top="540" left="172" width="205" height="17" font="3">Amortisation of government grant</text>
+<text top="540" left="488" width="15" height="17" font="3">32</text>
+<text top="540" left="405" width="87" height="17" font="3">                       </text>
+<text top="540" left="584" width="26" height="17" font="3">N/A</text>
+<text top="540" left="684" width="23" height="17" font="3">132</text>
+<text top="540" left="621" width="64" height="17" font="3">                 </text>
+<text top="540" left="785" width="23" height="17" font="3">115</text>
+<text top="540" left="725" width="64" height="17" font="3">                 </text>
+<text top="560" left="172" width="128" height="17" font="3">Bad debts written off</text>
+<text top="560" left="475" width="33" height="17" font="3">(184)</text>
+<text top="560" left="405" width="72" height="17" font="3">                   </text>
+<text top="560" left="585" width="26" height="17" font="3">N/A</text>
+<text top="560" left="679" width="33" height="17" font="3">(184)</text>
+<text top="560" left="621" width="60" height="17" font="3">                </text>
+<text top="560" left="803" width="5" height="17" font="3">-</text>
+<text top="560" left="723" width="83" height="17" font="3">                      </text>
+<text top="579" left="172" width="212" height="17" font="3">Depreciation of property, plant and</text>
+<text top="599" left="172" width="74" height="17" font="3">   equipment</text>
+<text top="599" left="483" width="25" height="17" font="3">(45)</text>
+<text top="599" left="405" width="79" height="17" font="3">                     </text>
+<text top="599" left="585" width="26" height="17" font="3">N/A</text>
+<text top="599" left="668" width="44" height="17" font="3">(2,268)</text>
+<text top="599" left="621" width="49" height="17" font="3">             </text>
+<text top="599" left="768" width="44" height="17" font="3">(2,418)</text>
+<text top="599" left="723" width="49" height="17" font="3">             </text>
+<text top="619" left="172" width="208" height="17" font="3">Depreciation of right-of-use assets</text>
+<text top="619" left="464" width="44" height="17" font="3">(2,221)</text>
+<text top="619" left="405" width="60" height="17" font="3">                </text>
+<text top="619" left="585" width="26" height="17" font="3">N/A</text>
+<text top="619" left="668" width="44" height="17" font="3">(2,221)</text>
+<text top="619" left="621" width="49" height="17" font="3">             </text>
+<text top="619" left="803" width="5" height="17" font="3">-</text>
+<text top="619" left="723" width="83" height="17" font="3">                      </text>
+<text top="639" left="172" width="172" height="17" font="3">Fair value gain on derivative</text>
+<text top="659" left="172" width="81" height="17" font="3">   instruments</text>
+<text top="659" left="488" width="15" height="17" font="3">17</text>
+<text top="659" left="405" width="87" height="17" font="3">                       </text>
+<text top="659" left="584" width="26" height="17" font="3">N/A</text>
+<text top="659" left="700" width="8" height="17" font="3">9</text>
+<text top="659" left="621" width="79" height="17" font="3">                     </text>
+<text top="659" left="803" width="5" height="17" font="3">-</text>
+<text top="659" left="723" width="83" height="17" font="3">                      </text>
+<text top="678" left="172" width="235" height="17" font="3">Gain on disposal of property, plant and</text>
+<text top="698" left="172" width="74" height="17" font="3">   equipment</text>
+<text top="698" left="488" width="15" height="17" font="3">63</text>
+<text top="698" left="405" width="87" height="17" font="3">                       </text>
+<text top="698" left="584" width="26" height="17" font="3">N/A</text>
+<text top="698" left="692" width="15" height="17" font="3">63</text>
+<text top="698" left="621" width="72" height="17" font="3">                   </text>
+<text top="698" left="803" width="5" height="17" font="3">-</text>
+<text top="698" left="723" width="83" height="17" font="3">                      </text>
+<text top="718" left="172" width="221" height="17" font="3">Impairment loss on trade receivables</text>
+<text top="718" left="475" width="33" height="17" font="3">(180)</text>
+<text top="718" left="584" width="26" height="17" font="3">N/A</text>
+<text top="718" left="679" width="33" height="17" font="3">(180)</text>
+<text top="718" left="621" width="60" height="17" font="3">                </text>
+<text top="718" left="780" width="33" height="17" font="3">(523)</text>
+<text top="718" left="723" width="60" height="17" font="3">                </text>
+<text top="738" left="172" width="97" height="17" font="3">Interest expense</text>
+<text top="738" left="475" width="33" height="17" font="3">(363)</text>
+<text top="738" left="405" width="72" height="17" font="3">                   </text>
+<text top="738" left="585" width="26" height="17" font="3">N/A</text>
+<text top="738" left="679" width="33" height="17" font="3">(905)</text>
+<text top="738" left="621" width="60" height="17" font="3">                </text>
+<text top="738" left="780" width="33" height="17" font="3">(561)</text>
+<text top="738" left="723" width="60" height="17" font="3">                </text>
+<text top="758" left="172" width="93" height="17" font="3">Interest income</text>
+<text top="758" left="481" width="23" height="17" font="3">159</text>
+<text top="758" left="405" width="79" height="17" font="3">                     </text>
+<text top="758" left="585" width="26" height="17" font="3">N/A</text>
+<text top="758" left="684" width="23" height="17" font="3">640</text>
+<text top="758" left="621" width="64" height="17" font="3">                 </text>
+<text top="758" left="792" width="15" height="17" font="3">53</text>
+<text top="758" left="723" width="72" height="17" font="3">                   </text>
+<text top="777" left="172" width="141" height="17" font="3">Inventory written down</text>
+<text top="777" left="475" width="33" height="17" font="3">(201)</text>
+<text top="777" left="405" width="72" height="17" font="3">                   </text>
+<text top="777" left="585" width="26" height="17" font="3">N/A</text>
+<text top="777" left="679" width="33" height="17" font="3">(201)</text>
+<text top="777" left="621" width="60" height="17" font="3">                </text>
+<text top="777" left="803" width="5" height="17" font="3">-</text>
+<text top="777" left="723" width="83" height="17" font="3">                      </text>
+<text top="797" left="172" width="227" height="17" font="3">Loss on revaluation of property, plant</text>
+<text top="817" left="172" width="100" height="17" font="3">   and equipment</text>
+<text top="817" left="475" width="33" height="17" font="3">(937)</text>
+<text top="817" left="405" width="72" height="17" font="3">                   </text>
+<text top="817" left="585" width="26" height="17" font="3">N/A</text>
+<text top="817" left="679" width="33" height="17" font="3">(937)</text>
+<text top="817" left="621" width="60" height="17" font="3">                </text>
+<text top="817" left="803" width="5" height="17" font="3">-</text>
+<text top="817" left="723" width="83" height="17" font="3">                      </text>
+<text top="837" left="172" width="228" height="17" font="3">Property, plant and equipment written</text>
+<text top="857" left="172" width="29" height="17" font="3">   off</text>
+<text top="857" left="498" width="5" height="17" font="3">-</text>
+<text top="857" left="405" width="94" height="17" font="3">                         </text>
+<text top="857" left="584" width="26" height="17" font="3">N/A</text>
+<text top="857" left="694" width="18" height="17" font="3">(2)</text>
+<text top="857" left="623" width="75" height="17" font="3">                    </text>
+<text top="857" left="795" width="18" height="17" font="3">(2)</text>
+<text top="857" left="723" width="75" height="17" font="3">                    </text>
+<text top="876" left="172" width="146" height="17" font="3">Provision for warranties</text>
+<text top="876" left="464" width="44" height="17" font="3">(3,802)</text>
+<text top="876" left="405" width="60" height="17" font="3">                </text>
+<text top="876" left="585" width="26" height="17" font="3">N/A</text>
+<text top="876" left="660" width="52" height="17" font="3">(14,732)</text>
+<text top="876" left="621" width="42" height="17" font="3">           </text>
+<text top="876" left="761" width="52" height="17" font="3">(15,887)</text>
+<text top="876" left="723" width="42" height="17" font="3">           </text>
+<text top="896" left="172" width="208" height="17" font="3">Realised gain on foreign exchange</text>
+<text top="896" left="469" width="34" height="17" font="3">1,010</text>
+<text top="896" left="405" width="68" height="17" font="3">                  </text>
+<text top="896" left="585" width="26" height="17" font="3">N/A</text>
+<text top="896" left="673" width="34" height="17" font="3">4,897</text>
+<text top="896" left="621" width="53" height="17" font="3">              </text>
+<text top="896" left="774" width="34" height="17" font="3">6,364</text>
+<text top="896" left="725" width="53" height="17" font="3">              </text>
+<text top="916" left="172" width="187" height="17" font="3">Reversal of impairment loss on</text>
+<text top="936" left="172" width="113" height="17" font="3">   trade receivables</text>
+<text top="936" left="481" width="23" height="17" font="3">306</text>
+<text top="936" left="405" width="79" height="17" font="3">                     </text>
+<text top="936" left="585" width="26" height="17" font="3">N/A</text>
+<text top="936" left="684" width="23" height="17" font="3">523</text>
+<text top="936" left="621" width="64" height="17" font="3">                 </text>
+<text top="936" left="785" width="23" height="17" font="3">242</text>
+<text top="936" left="723" width="64" height="17" font="3">                 </text>
+<text top="955" left="172" width="198" height="17" font="3">Reversal of unused provision for</text>
+<text top="975" left="172" width="70" height="17" font="3">  warranties</text>
+<text top="975" left="481" width="23" height="17" font="3">307</text>
+<text top="975" left="405" width="79" height="17" font="3">                     </text>
+<text top="975" left="585" width="26" height="17" font="3">N/A</text>
+<text top="975" left="684" width="23" height="17" font="3">307</text>
+<text top="975" left="621" width="64" height="17" font="3">                 </text>
+<text top="975" left="803" width="5" height="17" font="3">-</text>
+<text top="975" left="723" width="83" height="17" font="3">                      </text>
+<text top="995" left="172" width="219" height="17" font="3">Unrealised loss on foreign exchange</text>
+<text top="995" left="464" width="44" height="17" font="3">(1,405)</text>
+<text top="995" left="405" width="60" height="17" font="3">                </text>
+<text top="995" left="585" width="26" height="17" font="3">N/A</text>
+<text top="995" left="668" width="44" height="17" font="3">(3,082)</text>
+<text top="995" left="621" width="49" height="17" font="3">             </text>
+<text top="995" left="768" width="44" height="17" font="3">(2,962)</text>
+<text top="995" left="723" width="49" height="17" font="3">             </text>
+<text top="1035" left="177" width="18" height="17" font="3">(1)</text>
+<text top="1094" left="171" width="121" height="17" font="3">N/A Not applicable.</text>
+<text top="1035" left="200" width="613" height="17" font="3">No comparative figures for the preceding year corresponding quarter are presented as this is the</text>
+<text top="1054" left="200" width="612" height="17" font="3">fourth interim financial report on consolidated results announced by the Company in compliance with</text>
+<text top="1073" left="200" width="155" height="17" font="3">the Listing Requirements.</text>
+<text top="460" left="660" width="109" height="17" font="3">12 months ended</text>
+<text top="441" left="443" width="124" height="17" font="3">Individual Quarter</text>
+<text top="421" left="572" width="68" height="17" font="3">Unaudited</text>
+<text top="262" left="200" width="612" height="17" font="3">Diluted EPS equals basic EPS, as the Company does not have any convertible options as at the end of</text>
+<text top="282" left="200" width="168" height="17" font="3">the interim financial period.</text>
+<text top="203" left="200" width="613" height="17" font="3">Basic EPS is calculated based on the profit after tax attributable to owners of the parent divided by</text>
+<text top="222" left="200" width="613" height="17" font="3">the weighted average number of ordinary shares in issue during the financial period/year under</text>
+<text top="242" left="200" width="44" height="17" font="3">review.</text>
+<text top="460" left="455" width="102" height="17" font="3">3 months ended</text>
+<text top="441" left="648" width="132" height="17" font="3">Cumulative Quarter</text>
+<text top="1145" left="484" width="17" height="18" font="2">18</text>
+</page>
+</pdf2xml>

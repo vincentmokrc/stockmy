@@ -802,3 +802,359 @@ JavaScript error: , line 0: uncaught exception: 2147746132
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1583417137200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\vince\\AppData\\Local\\Temp\\rust_mozprofileUIlL5g"
+1583417137504	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1583417137528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1583417137529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1583417137529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1583417137529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1583417139045	Marionette	INFO	Listening on port 51189
+1583417139210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417152046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417158873	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417166820	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417179768	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417187717	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1583417194473	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417202387	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417209924	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417217666	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417226337	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417233116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417239817	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417246581	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417254293	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417261999	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417268760	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417289739	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417297478	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417305242	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583417312068	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:244:13
+TimedPromise@chrome://marionette/content/sync.js:229:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+JavaScript error: , line 0: uncaught exception: 2147746132
+1583418052229	Marionette	INFO	Stopped listening on port 51189
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
