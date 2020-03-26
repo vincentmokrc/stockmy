@@ -39,6 +39,7 @@ class XMLParser:
                 df = pd.DataFrame(res, columns=["Page", "Left" ,"Top" ,"Width" ,"Content"])
             self.whole_pdf.append(df)
 
+        
         return self.whole_pdf
 
     @staticmethod
@@ -46,7 +47,7 @@ class XMLParser:
         #dfObj = pd.DataFrame(columns=["Page", "Left" ,"Top" ,"Width" ,"Content"])
         #for pdf in wholepdf:
         #    dfObj = dfObj.append(pdf)
-        dfObj = pd.concat(wholepdf)
+        dfObj = pd.concat(wholepdf,ignore_index=True)
         
         dfObj = dfObj.astype({"Page": int , "Left": int, "Top": int, "Width": int, "Content": str})
         print(dfObj.dtypes)

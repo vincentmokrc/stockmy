@@ -11,7 +11,7 @@ class GetTable(_SendRequest):
         #self.params = {'cat': AnnouncementCategory.FinancialResults['Symbol'] , 'company' : self.symbol , 'per_page' : 50 , 'page' : 1}
         self.params_list = []
         for x in range(30):
-            params = {'cat': AnnouncementCategory.FinancialResults['Symbol'] , 'company' : self.symbol , 'per_page' : 50 , 'page' : x}
+            params = {'cat': AnnouncementCategory.FinancialResults['Symbol'] ,'sub_type' : 'FA1', 'company' : self.symbol , 'per_page' : 50 , 'page' : x}
             self.params_list.append(params)
         
         content = self.read_all_table()
