@@ -2,9 +2,10 @@ import time
 from data.reportdata import ReportFormat
 from parse import XMLParser
 from bursamy.download import BursaFileDownloader
+from text import TextParser
 
 
-file_path = 'C://Users//vince//stockmy//testmct//xml//MCT-Q4 FY2019 Financial Results.pdf.xml'
+file_path = 'C://Users//vince//stockmy//testmi//txt//MI Q2 FYE2018.pdf.txt'
 #c0138 = ReportFormat("0138")
 #c0138.add_page("Cashflow",1)
 #c0138.add_page("Income",2)
@@ -27,5 +28,5 @@ def structuring_data(file_path):
 
 if __name__ == "__main__":
     start_time = time.time()
-    structuring_data(file_path)
+    print(TextParser(file_path).get_value("Net cash from investing activities"))
     print("--- %s seconds ---" % (time.time() - start_time))
