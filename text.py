@@ -1,9 +1,10 @@
 import re
 import locale
+import typing
 
 class TextParser():
     
-    def __init__(self, file_path):
+    def __init__(self, file_path : str):
         self.path = file_path
         self.lineList = []
         self._read_all_lines()
@@ -15,8 +16,8 @@ class TextParser():
         not_empty_lines = list(filter(lambda t: len(t) > 0, lines))
         self.lineList = [line.strip() for line in not_empty_lines]
 
-    def _get_first_line_match(self, item):
-        r = re.compile(item)
+    def _get_first_line_match(self, item : str):
+        r = re.compile("^"+ item)
         newlist = list(filter(r.match, self.lineList)) # Read Note
         return newlist[0]
         
@@ -24,7 +25,7 @@ class TextParser():
         x = re.findall('[\(]?[0-9]+[,]?[0-9]+[\)]?', item)
         return x
 
-    def _clean_num(self,num_string):
+    def _clean_num(self, num_string : str):
         bad_chars = '(),-'
         translator = str.maketrans('', '', bad_chars)
         clean_digits = num_string.translate(translator).strip()
@@ -36,7 +37,7 @@ class TextParser():
         else:
             return int(clean_digits) 
 
-    def get_value(self, str_item):
+    def get_value(self, str_item : str):
         line = self._get_first_line_match(str_item)
         number = self._get_all_numbers(line)
         value = self._clean_num(number[0])

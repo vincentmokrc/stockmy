@@ -3,9 +3,11 @@ from data.reportdata import ReportFormat
 from parse import XMLParser
 from bursamy.download import BursaFileDownloader
 from text import TextParser
+from bursamy.company import GetCompanyList
 
 
-file_path = 'C://Users//vince//stockmy//testmi//txt//MI Q2 FYE2018.pdf.txt'
+file_path = 'C://Users//vince//stockmy//testmct//txt//MCT-Q3 2019 Financial Results.pdf.txt'
+file_path2 = 'C://Users//vince//stockmy//testmi//txt//MI Q2 FYE2018.pdf.txt'
 #c0138 = ReportFormat("0138")
 #c0138.add_page("Cashflow",1)
 #c0138.add_page("Income",2)
@@ -15,10 +17,10 @@ file_path = 'C://Users//vince//stockmy//testmi//txt//MI Q2 FYE2018.pdf.txt'
 
 
 
-def downloading_report(symbol):
+def downloading_report(symbol : str):
     BursaFileDownloader(symbol).get_financial_result()
 
-def structuring_data(file_path):
+def structuring_data(file_path : str):
     df = XMLParser(file_path).convert_pages_to_df()
     print(df[0])
     wholepdf = XMLParser.concat_all_pages_df(df)
@@ -26,7 +28,12 @@ def structuring_data(file_path):
     print(wholepdf)
     wholepdf.to_csv(r'MCTQ42019.csv',index=False)
 
+def get_company_list(market : str):
+    GetCompanyList(market).get_company_table()
+
 if __name__ == "__main__":
     start_time = time.time()
-    print(TextParser(file_path).get_value("Net cash from investing activities"))
+    #TextParser(file_path).get_value("Revenue")
+    #TextParser(file_path2).get_value("Revenue")
+    df = get_company_list("ace_market")
     print("--- %s seconds ---" % (time.time() - start_time))
