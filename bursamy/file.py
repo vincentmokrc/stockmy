@@ -13,6 +13,7 @@ class GetPdf(_BaseSelenium):
         self.url_list = []
         self.company_name_list = []
         self.file_naming = []
+        self.file_info =[]
         self.url = "https://www.bursamalaysia.com/market_information/announcements/company_announcement/announcement_details?ann_id="
 
     def download_all_pdf(self, df):
@@ -21,6 +22,7 @@ class GetPdf(_BaseSelenium):
         k = 0
         self.remove_all_pdf()
         for i in url_list:
+            self.file_info.clear()
             
             if (k > len(url_list)):
                 print("done")
@@ -34,6 +36,13 @@ class GetPdf(_BaseSelenium):
             self.driver.switch_to.frame(self.driver.find_element_by_tag_name("iframe"))
             k+=1
             try:
+                #get the info of the table
+                table_id = self.driver.find_element(By.CLASS_NAME, 'formContentTable')
+                rows = table_id.find_elements(By.TAG_NAME, "tr")
+                for row in rows:
+                    col = row.find_elements(By.TAG_NAME, "td")[1]
+                    self.file_info.append(col.text)
+
                 self.driver.find_element_by_xpath("//div[@class='attachment fixed']//a").click()
             except:
                 pass
@@ -71,21 +80,31 @@ class GetPdf(_BaseSelenium):
             pass
 
     def copy_rename(self, old_file_name, new_file_name):
-        #src_dir= self.save_directory
-        #dst_dir= os.path.join("C://fs",, ".pdf")
-        #src_file = os.path.join(src_dir, old_file_name)
-        #self.ensure_dir(old_file_name)
         src_file = old_file_name
         print(old_file_name)
+
+        path_name = path.realpath(old_file_name)
+        print(os.path.basename(path_name))
+        dir_path = os.path.dirname(path_name)
+
+        new_file_name = "{0} {1} {2}.pdf".format(self.company_name_list[self.index], self.file_info[1], self.file_info[2])
+        new_file_name = os.path.join(dir_path , new_file_name)
+
+        os.rename(old_file_name,new_file_name)
+
+        src_file = new_file_name
+
         dst_dir= os.path.join("C://fs",self.company_name_list[self.index])
         print(dst_dir)
         self.ensure_dir(dst_dir)
+
+        
         shutil.copy(src_file,dst_dir)
         
         dst_file = os.path.join(dst_dir, old_file_name)
         #new_dst_file_name = os.path.join(dst_dir, self.file_naming[self.index])
         #os.rename(dst_file, new_dst_file_name) 
-        os.remove(old_file_name)
+        os.remove(new_file_name)
 
     def ensure_dir(self, dir_path):
         #directory = os.path.dirname(file_path)
