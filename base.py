@@ -123,7 +123,7 @@ class _BaseSelenium(object):
         fp.set_preference("browser.download.folderList", 2)
         fp.set_preference("browser.download.manager.showWhenStarting",False)
         fp.set_preference("browser.download.dir", self.save_directory)
-        fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf,application/x-pdf")
+        fp.set_preference("browser.helperApps.neverAsk.saveToDisk", "application/pdf,application/x-pdf,application/vnd.openxmlformats-officedocument.wordprocessingml.document")
 
         fp.set_preference("pdfjs.disabled", True)  # < KEY PART HERE
 
