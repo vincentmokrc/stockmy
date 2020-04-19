@@ -4,10 +4,11 @@ from parse import XMLParser
 from bursamy.download import BursaFileDownloader
 from text import TextParser
 from bursamy.company import GetCompanyList
+from regex import RegularExp
 
 
-file_path = 'C://Users//vince//stockmy//testmct//txt//MCT-Q3 2019 Financial Results.pdf.txt'
-file_path2 = 'C://Users//vince//stockmy//testmi//txt//MI Q2 FYE2018.pdf.txt'
+file_path = 'C://Users//vince//stockmy//testptrans//txt//PTRANS 2016.09-final.pdf.txt'
+file_path2 = 'C://Users//vince//stockmy//testlayhong//txt//LHB-QR Q1-FYE2019.pdf.txt'
 #c0138 = ReportFormat("0138")
 #c0138.add_page("Cashflow",1)
 #c0138.add_page("Income",2)
@@ -31,9 +32,14 @@ def structuring_data(file_path : str):
 def get_company_list(market : str):
     GetCompanyList(market).get_company_table()
 
+def display_text_valid(file_path : str):
+    lines = TextParser(file_path)._read_all_lines()
+    RegularExp(lines).restructure_lines()
+
 if __name__ == "__main__":
     start_time = time.time()
-    #TextParser(file_path).get_value("Revenue")
+    downloading_report('0186')
+    #display_text_valid(file_path)
     #TextParser(file_path2).get_value("Revenue")
-    df = get_company_list("ace_market")
+    #df = get_company_list("ace_market")
     print("--- %s seconds ---" % (time.time() - start_time))

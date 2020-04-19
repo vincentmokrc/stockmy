@@ -15,6 +15,7 @@ class TextParser():
         
         not_empty_lines = list(filter(lambda t: len(t) > 0, lines))
         self.lineList = [line.strip() for line in not_empty_lines]
+        return self.lineList
 
     def _get_first_line_match(self, item : str):
         r = re.compile("^"+ item)
