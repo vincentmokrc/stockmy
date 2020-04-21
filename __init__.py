@@ -5,6 +5,7 @@ from bursamy.download import BursaFileDownloader
 from text import TextParser
 from bursamy.company import GetCompanyList
 from regex import RegularExp
+from bursa.company import CompanyList
 
 
 file_path = 'C://Users//vince//stockmy//source//testptrans//txt//PTRANS 2016.09-final.pdf.txt'
@@ -38,8 +39,9 @@ def display_text_valid(file_path : str):
 
 if __name__ == "__main__":
     start_time = time.time()
-    downloading_report('0040')
+    #downloading_report('0040')
     #display_text_valid(file_path)
     #TextParser(file_path2).get_value("Revenue")
     #df = get_company_list("ace_market")
+    CompanyList("ace_market").get_list()
     print("--- %s seconds ---" % (time.time() - start_time))

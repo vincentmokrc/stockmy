@@ -93,7 +93,6 @@ class GetPdf(_BaseSelenium):
             else:
                 self.copy_old_file(real_path)
 
-
     def copy_old_file(self, old_file_name):
         src_file = old_file_name
         dst_dir= os.path.join("C://fs",self.company_name)
