@@ -3,9 +3,10 @@ from data.reportdata import ReportFormat
 from parse import XMLParser
 from bursamy.download import BursaFileDownloader
 from text import TextParser
-from bursamy.company import GetCompanyList
+#from bursamy.company import GetCompanyList
 from regex import RegularExp
 from bursa.company import CompanyList
+from bursa.stats import Statistics
 
 
 file_path = 'C://Users//vince//stockmy//source//testptrans//txt//PTRANS 2016.09-final.pdf.txt'
@@ -43,5 +44,6 @@ if __name__ == "__main__":
     #display_text_valid(file_path)
     #TextParser(file_path2).get_value("Revenue")
     #df = get_company_list("ace_market")
-    CompanyList("ace_market").get_list()
+    #CompanyList("ace_market").get_list()
+    Statistics().get_trading_participation()
     print("--- %s seconds ---" % (time.time() - start_time))

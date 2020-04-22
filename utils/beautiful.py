@@ -11,3 +11,9 @@ class Beautify:
         table = self.soup.find('table', id = id_find)
         whole_table = table.tbody.find_all("tr") 
         return whole_table
+
+    def get_table_by_class(self,*args, **kwargs):
+        class_find = kwargs.get("find_class", None)
+        table = self.soup.find('table', class_ = class_find)
+        whole_table = table.tbody.find_all("tr") 
+        return whole_table
