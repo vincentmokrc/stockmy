@@ -8,6 +8,7 @@ from regex import RegularExp
 from bursa.company import CompanyList
 from bursa.stats import Statistics
 from bursa.announcement import Announcement
+from utils.parser import Parser
 
 
 file_path = 'C://Users//vince//stockmy//source//testptrans//txt//PTRANS 2016.09-final.pdf.txt'
@@ -45,7 +46,8 @@ if __name__ == "__main__":
     #display_text_valid(file_path)
     #TextParser(file_path2).get_value("Revenue")
     #df = get_company_list("ace_market")
-    #CompanyList("ace_market").get_list()
+    #CompanyList("main_market").get_list()
     #Statistics().get_trading_participation()
-    Announcement("0186").get_financial_result()
+    #Announcement("0186").get_financial_result()
+    Parser(file_path2).restructure_lines()
     print("--- %s seconds ---" % (time.time() - start_time))

@@ -1,7 +1,16 @@
 from selebase.firefox import _Firefox
 from selenium.webdriver.common.by import By
 from utils.beautiful import Beautify
+from utils.dataframe import Dataframe
 import pandas as pd
+
+table_dict_list = [
+    {'colname': 'No', 'index': 0, 'cat' : 'text'},
+    {'colname': 'Company', 'index': 1, 'cat' : 'text'},
+    {'colname': 'Website', 'index': 2, 'cat' : 'text'},
+    {'colname': 'Code', 'index': 1, 'cat' : 'link', 'partition':'stock_code='},
+]
+
 
 class CompanyList(_Firefox):
 
@@ -26,32 +35,10 @@ class CompanyList(_Firefox):
     def get_list(self):
         self._direct_to_company_list()
         table_response = Beautify(self.driver.page_source).get_table_by_id(find_id = "DataTables_Table_0")
-        df = self.convert_response_to_df(table_response)
-        print(df)
+        df = Dataframe(table_dict_list)
+        df.convert_based_format(table_response)
+        df.array_list_to_df()
+        df.save_df_to_csv("./source/companylist/"+ self.market_type +".csv")
         self.quit_driver()
-        return df
-
-    def convert_response_to_df(self, response):
-        table = response
-        res = []  
-        code = 0
-        for cell in table:
-            td = cell.find_all('td')
-            td2 = cell.find_all('td')[1:2]
-            for d in td2: 
-                a = d.find_all('a', href=True)
-                for b in a:
-                    code=b['href'].split('stock_code=')
-                    if(len(code) > 1 ):
-                        code = code[1]
-                    else:
-                        code = 0
-            
-            row = [d.text.strip() for d in td]
-            row.append(code)
-
-            if row:
-                res.append(row)
-
-        df = pd.DataFrame(res)
-        return df
+        print(df.dataframe)
+        return df.dataframe

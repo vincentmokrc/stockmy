@@ -1,4 +1,5 @@
 import pandas as pd
+import re
 
 class Dataframe:
     def __init__(self, format):
@@ -21,11 +22,22 @@ class Dataframe:
             for i in range(len(self.list_array)):
                 if(i < len(td)):
                     if(self.format[i].get('cat') == 'text'):
-                        self.list_array[i].append(td[i].text.strip())
+                        text = td[i].text.strip()
                 else:
                     if(self.format[i].get('cat') == 'link'):
                         k = self.format[i].get('index')
-                        self.list_array[i].append(td[k].find('a').get('href'))
+                        text = td[k].find('a').get('href')
+                
+                if self.format[i].get('partition') is not None:
+                    
+                    before_keyword, keyword, after_keyword = text.partition(self.format[i].get('partition'))
+
+                    if(len(after_keyword)> 0):
+                        self.list_array[i].append(str(after_keyword))
+                    else:
+                        self.list_array[i].append('0')
+                else:
+                    self.list_array[i].append(text)
                 
     @property
     def array_list(self):
