@@ -39,4 +39,4 @@ class Announcement(_Table):
         cat = "FA"
         sub_type = "FA1"
         dataframe = self._get_announcement_table(cat, sub_type, table_dict_list)
-        print(dataframe)
+        return dataframe

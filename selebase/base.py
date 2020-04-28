@@ -17,7 +17,7 @@ class _Selenium(ABC):
     def quit_driver(self):
         self.driver.quit()
 
-    def wait_until_presence(self, by, selector, source=None, *args, **kwargs):
+    def wait_until_presence(self, by = By.XPATH , selector=None, source=None, *args, **kwargs):
         source = source or self.driver
         WebDriverWait(source,10).until(EC.presence_of_element_located((by ,selector)))
         return True

@@ -9,6 +9,7 @@ from bursa.company import CompanyList
 from bursa.stats import Statistics
 from bursa.announcement import Announcement
 from utils.parser import Parser
+from bursa.download import FileDownloader
 
 
 file_path = 'C://Users//vince//stockmy//source//testptrans//txt//PTRANS 2016.09-final.pdf.txt'
@@ -34,7 +35,7 @@ def structuring_data(file_path : str):
     wholepdf.to_csv(r'MCTQ42019.csv',index=False)
 
 def get_company_list(market : str):
-    GetCompanyList(market).get_company_table()
+    pass
 
 def display_text_valid(file_path : str):
     lines = TextParser(file_path)._read_all_lines()
@@ -49,5 +50,6 @@ if __name__ == "__main__":
     #CompanyList("main_market").get_list()
     #Statistics().get_trading_participation()
     #Announcement("0186").get_financial_result()
-    Parser(file_path2).restructure_lines()
+    FileDownloader("5147").download_finiancial_result()
+    #Parser(file_path2).restructure_lines()
     print("--- %s seconds ---" % (time.time() - start_time))
