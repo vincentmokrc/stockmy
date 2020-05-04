@@ -34,7 +34,7 @@ class Statistics(_Firefox):
         print(participation_df.dataframe)
 
         date_str = self.get_element(By.CLASS_NAME,"bm_footnote").text
-        save_path = "./source/participation/" + date_str + ".csv"
+        save_path = "C://source//participation//" + date_str + ".csv"
         participation_df.save_df_to_csv(save_path)
         self.quit_driver()
 

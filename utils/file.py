@@ -30,12 +30,19 @@ class FileOps:
     
     @staticmethod
     def check_until_file_exist(check_dir, file_type):
-        keepGoing = False
+        keepGoing = True
         while keepGoing:
             keepGoing , file_list = FileOps.check_file_exist(check_dir, file_type)
             time.sleep(1)
 
         return file_list
+
+    @staticmethod
+    def check_until_none(check_dir, file_regex):
+        keepGoing = True
+        while keepGoing:
+            keepGoing , file_list = FileOps.check_file_exist(check_dir, file_regex)
+            time.sleep(1)
 
     @staticmethod
     def get_file_ext(file_path):
@@ -74,3 +81,11 @@ class FileOps:
         print("MOVE to {0}".format(dst_dir))
         shutil.copy(src_file,dst_dir)
         os.remove(src_file)
+
+    @staticmethod
+    def get_real_path(file_path):
+        return path.realpath(file_path)
+
+    @staticmethod
+    def get_dir_path(file_path):
+        return os.path.dirname(file_path)

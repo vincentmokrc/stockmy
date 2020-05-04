@@ -1,12 +1,13 @@
 from bursa.announcement import Announcement
 from selebase.firefox import _Firefox
+from abc import ABC, abstractmethod
 
 
 class FileDownloader(_Firefox):
-    def __init__(self, symbol, *args, **kwargs):
+    def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.symbol = symbol
         self.driver = self.get_driver()
 
-    def download_file(self, url, target):
+    @abstractmethod
+    def download_file(self, *args, **kwargs):
         pass
